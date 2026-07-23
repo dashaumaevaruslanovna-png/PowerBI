@@ -1,0 +1,48 @@
+category_id,category_name,category_tree,parent_category_id
+1,Electronics,Electronics,0
+2,Phones,Electronics > Phones,1
+3,Computers,Electronics > Computers,1
+4,TV & Audio,Electronics > TV & Audio,1
+5,Appliances,Appliances,0
+6,Vacuum,Appliances > Vacuum,5
+7,Kitchen,Appliances > Kitchen,5
+8,Furniture,Furniture,0
+9,Sofa,Furniture > Sofa,8
+10,Table,Furniture > Table,8
+11,Chair,Furniture > Chair,8
+12,Clothing,Clothing,0
+13,Men,Clothing > Men,12
+14,Women,Clothing > Women,12
+15,Shoes,Shoes,0
+16,Sneakers,Shoes > Sneakers,15
+17,Boots,Shoes > Boots,15
+18,Books,Books,0
+19,Fiction,Books > Fiction,18
+20,Study,Books > Study,18
+21,Toys & Games,Toys & Games,0
+22,Toys,Toys & Games > Toys,21
+23,Board Games,Toys & Games > Board Games,21
+24,Beauty & Health,Beauty & Health,0
+25,Cosmetics,Beauty & Health > Cosmetics,24
+26,Personal Care,Beauty & Health > Personal Care,24
+27,Sports,Sports,0
+28,Fitness,Sports > Fitness,27
+29,Outdoor,Sports > Outdoor,27
+30,Groceries,Groceries,0
+31,Dry,Groceries > Dry,30
+32,Fresh,Groceries > Fresh,30
+33,Pet Supplies,Pet Supplies,0
+34,Food,Pet Supplies > Food,33
+35,Accessories,Pet Supplies > Accessories,33
+36,Office Supplies,Office Supplies,0
+37,Printers,Office Supplies > Printers,36
+38,Stationery,Office Supplies > Stationery,36
+39,Jewelry,Jewelry,0
+40,Rings,Jewelry > Rings,39
+41,Necklaces,Jewelry > Necklaces,39
+42,Automotive,Automotive,0
+43,Parts,Automotive > Parts,42
+44,Tires,Automotive > Tires,42
+45,Home & Kitchen,Home & Kitchen,0
+46,Cookware,Home & Kitchen > Cookware,45
+47,Decor,Home & Kitchen > Decor,45

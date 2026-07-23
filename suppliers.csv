@@ -1,0 +1,11 @@
+supplier_id,name,email,phone_number,agent,type
+1,Tran LLC,inventory@tran.llc.com,332.692.5371x26324,Matthew Collier,2
+2,Lozano Group,warehouse@lozano.group.com,(863)990-2390,Cynthia Palmer,2
+3,Evans-Richardson,shipping@evans-richardson.net,291-437-3961x808,Jane Davis,3
+4,Harding-Griffith,purchases@harding-griffith.org,(319)250-0625x64955,Michelle Davenport,2
+5,"Weiss, Wade and Hall",delivery@weiss.wade.and.hall.com,(317)909-8153,Kim Frederick,3
+6,Brown-Hanson,sales@brown-hanson.net,+1-502-813-6789x43474,Kenneth Arnold,2
+7,Howard PLC,logistics@howard.plc.net,980-372-6056x41196,Michael Harrison,2
+8,"Sandoval, Perez and Downs",contracts@sandoval.perez.and.downs.org,333.282.7092,William Monroe,2
+9,Christian Group,support@christian.group.com,736.256.1968x9280,Christopher Davis,2
+10,"Stevens, Price and Johnson",orders@stevens.price.and.johnson.org,277.309.8210x6661,Peter Gilbert,2

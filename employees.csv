@@ -1,0 +1,1331 @@
+employee_id,first_name,last_name,department,position,manager_id,store_id,salary,commission,hire_date
+1,Robin,Garcia,Management,Director,0,1,86797,0.0,2024-11-13 05:12:28
+2,Kim,French,Management,Manager,1,1,47686,0.0,2019-09-28 21:11:17
+3,Jessica,Meadows,Sales,Senior Salesperson,2,1,35517,0.07,2022-05-18 17:07:23
+4,Shelia,Hendricks,Sales,Salesperson,3,1,32649,0.05,2024-12-12 04:42:33
+5,Jennifer,Collins,Sales,Salesperson,3,1,34566,0.05,2023-09-06 08:25:49
+6,Theresa,Smith,Sales,Salesperson,3,1,34983,0.05,2019-06-30 06:53:07
+7,Kevin,Davis,Sales,Salesperson,3,1,32705,0.05,2024-02-05 00:37:22
+8,Eric,Lam,Sales,Salesperson,3,1,23345,0.05,2020-03-04 06:55:42
+9,Christopher,Spears,Sales,Salesperson,3,1,21996,0.05,2023-01-05 12:13:43
+10,Craig,Estes,Sales,Salesperson,3,1,27293,0.05,2020-09-03 19:50:16
+11,Justin,Irwin,Sales,Salesperson,3,1,26176,0.05,2022-01-07 22:08:37
+12,Lori,Simmons,Sales,Salesperson,3,1,20199,0.05,2023-08-15 07:30:18
+13,Danielle,Lynch,Sales,Salesperson,3,1,27662,0.05,2019-06-06 00:18:39
+14,James,Martinez,Sales,Salesperson,3,1,31488,0.05,2019-05-30 21:21:23
+15,Collin,Wilson,Sales,Salesperson,3,1,32072,0.05,2019-09-12 11:09:46
+16,Evan,Fields,Sales,Salesperson,3,1,26287,0.05,2019-06-16 11:55:19
+17,Mitchell,Cisneros,Support,Senior Support Agent,2,1,20604,0.0,2021-12-21 05:42:25
+18,Cynthia,Mosley,Support,Support Agent,17,1,15619,0.0,2021-04-09 10:29:35
+19,Shannon,Mitchell,Support,Support Agent,17,1,20893,0.0,2019-08-29 03:52:06
+20,Rebecca,Miller,Support,Support Agent,17,1,18444,0.0,2024-04-03 12:46:10
+21,Scott,Young,Support,Support Agent,17,1,18570,0.0,2021-01-20 04:22:03
+22,Jacob,Scott,Support,Support Agent,17,1,21530,0.0,2023-09-06 17:15:34
+23,Frank,Cook,Logistics,Chief of Logistics,2,1,43342,0.0,2019-11-30 01:25:26
+24,Alicia,Johnson,Logistics,Courier,23,1,27654,0.0,2023-07-17 08:33:09
+25,Jimmy,Sanford,Logistics,Warehouse Worker,23,1,15290,0.0,2024-08-16 00:19:29
+26,Marissa,Lucas,Logistics,Warehouse Worker,23,1,19499,0.0,2022-07-01 07:16:58
+27,Louis,Evans,Logistics,Courier,23,1,23851,0.0,2024-08-14 02:25:00
+28,Tasha,Branch,Logistics,Courier,23,1,15723,0.0,2020-07-02 16:22:16
+29,Frank,Haynes,Logistics,Courier,23,1,20116,0.0,2020-09-13 19:12:19
+30,Julie,Calderon,Logistics,Warehouse Worker,23,1,20975,0.0,2023-06-16 11:41:30
+31,Christopher,Ponce,Logistics,Courier,23,1,17516,0.0,2022-07-26 13:21:55
+32,Miguel,Campbell,Logistics,Courier,23,1,28674,0.0,2024-01-28 14:14:16
+33,Angela,Brady,Logistics,Warehouse Worker,23,1,19656,0.0,2023-11-02 09:06:38
+34,Angelica,Holmes,Logistics,Warehouse Worker,23,1,20366,0.0,2021-11-27 00:18:38
+35,Jennifer,Pratt,Management,Director,0,2,65443,0.0,2021-10-08 12:56:43
+36,James,Hawkins,Management,Manager,35,2,46021,0.0,2020-01-10 01:31:12
+37,Julie,Gill,Sales,Senior Salesperson,36,2,32776,0.07,2020-01-25 09:58:55
+38,Judy,Burton,Sales,Salesperson,37,2,29840,0.05,2023-05-21 06:28:58
+39,Leslie,Smith,Sales,Salesperson,37,2,32371,0.05,2024-05-25 01:35:20
+40,Anthony,Crosby,Sales,Salesperson,37,2,29196,0.05,2019-09-28 18:35:52
+41,Ryan,Hill,Sales,Salesperson,37,2,34533,0.05,2019-01-08 21:56:38
+42,Gregory,Mccarthy,Sales,Salesperson,37,2,33733,0.05,2022-03-08 13:02:49
+43,Jeffrey,Williams,Sales,Salesperson,37,2,31947,0.05,2019-04-27 07:21:32
+44,Brian,Diaz,Sales,Salesperson,37,2,32119,0.05,2023-09-17 23:17:26
+45,Joseph,Cummings,Sales,Salesperson,37,2,27775,0.05,2019-09-28 06:05:51
+46,Jessica,Pearson,Sales,Salesperson,37,2,29617,0.05,2021-10-08 21:06:29
+47,Natasha,Noble,Support,Senior Support Agent,36,2,29271,0.0,2023-07-08 03:30:01
+48,Cynthia,Smith,Support,Support Agent,47,2,15910,0.0,2024-01-31 08:48:02
+49,Christopher,Kent,Support,Support Agent,47,2,18984,0.0,2024-06-25 03:18:47
+50,Jacob,Black,Support,Support Agent,47,2,15192,0.0,2023-05-24 13:43:53
+51,David,Aguilar,Support,Support Agent,47,2,20693,0.0,2022-05-16 06:33:00
+52,Mario,Nelson,Support,Support Agent,47,2,19684,0.0,2021-09-21 01:09:48
+53,Tony,Benson,Logistics,Chief of Logistics,36,2,36679,0.0,2021-04-29 23:02:09
+54,Joy,Hendricks,Logistics,Warehouse Worker,53,2,20734,0.0,2023-02-18 03:48:44
+55,Steven,Lutz,Logistics,Courier,53,2,26917,0.0,2023-11-02 05:17:45
+56,Amanda,Scott,Logistics,Courier,53,2,16480,0.0,2023-08-26 09:37:03
+57,Alexandra,Bass,Logistics,Warehouse Worker,53,2,21120,0.0,2023-08-07 03:01:54
+58,Joshua,Williams,Logistics,Courier,53,2,17149,0.0,2019-05-03 14:06:57
+59,Shannon,Ford,Logistics,Warehouse Worker,53,2,15254,0.0,2021-08-26 16:51:24
+60,Nathan,Chase,Logistics,Courier,53,2,17211,0.0,2021-09-05 04:43:29
+61,Emily,Zhang,Logistics,Courier,53,2,16608,0.0,2021-10-12 00:35:23
+62,Dylan,Lewis,Management,Director,0,3,63829,0.0,2019-11-19 05:22:43
+63,Melanie,Watson,Management,Manager,62,3,49137,0.0,2023-11-13 18:23:45
+64,Amanda,Waters,Sales,Senior Salesperson,63,3,35925,0.07,2024-06-22 03:00:29
+65,Kevin,Diaz,Sales,Salesperson,64,3,34425,0.05,2023-01-24 09:16:59
+66,Carla,Martin,Sales,Salesperson,64,3,30484,0.05,2023-03-12 20:40:48
+67,Phillip,Taylor,Sales,Salesperson,64,3,20398,0.05,2022-06-13 15:49:51
+68,Kevin,Garrett,Sales,Salesperson,64,3,34396,0.05,2023-02-08 23:34:45
+69,Kaitlyn,Stafford,Sales,Salesperson,64,3,29606,0.05,2019-11-24 05:19:22
+70,Tanya,Ramos,Sales,Salesperson,64,3,31235,0.05,2023-02-15 11:36:43
+71,Shane,Wilson,Sales,Salesperson,64,3,32770,0.05,2020-11-10 07:47:01
+72,Jillian,West,Sales,Salesperson,64,3,23773,0.05,2019-10-23 17:09:35
+73,Rachel,Johnson,Sales,Salesperson,64,3,32006,0.05,2024-11-03 22:14:20
+74,Stephanie,Robinson,Sales,Salesperson,64,3,29235,0.05,2019-05-04 11:26:51
+75,John,Collins,Sales,Salesperson,64,3,31899,0.05,2020-06-20 22:14:31
+76,Cassandra,Johnson,Sales,Salesperson,64,3,23976,0.05,2023-06-07 13:55:57
+77,Johnathan,Vincent,Sales,Salesperson,64,3,23481,0.05,2021-05-29 01:32:57
+78,Frederick,French,Support,Senior Support Agent,63,3,32190,0.0,2020-08-22 07:15:48
+79,Madison,Wells,Support,Support Agent,78,3,19803,0.0,2019-05-02 07:44:58
+80,Timothy,Gonzales,Support,Support Agent,78,3,24089,0.0,2022-12-19 19:46:19
+81,Victoria,Kennedy,Support,Support Agent,78,3,22951,0.0,2022-11-28 04:47:47
+82,Hannah,Meyers,Support,Support Agent,78,3,21209,0.0,2022-11-11 11:29:04
+83,Natasha,Reyes,Support,Support Agent,78,3,20907,0.0,2023-06-17 02:09:22
+84,Jessica,Pratt,Support,Support Agent,78,3,17964,0.0,2024-09-30 15:51:42
+85,Corey,Steele,Support,Support Agent,78,3,16244,0.0,2021-01-10 21:01:45
+86,Julie,Shelton,Support,Support Agent,78,3,17013,0.0,2019-10-23 10:44:34
+87,Frank,Porter,Support,Support Agent,78,3,24564,0.0,2021-04-24 14:34:42
+88,Emily,Dennis,Support,Support Agent,78,3,20496,0.0,2021-07-11 12:27:51
+89,Albert,Holmes,Support,Support Agent,78,3,18047,0.0,2019-08-01 09:13:56
+90,Christina,Evans,Logistics,Chief of Logistics,63,3,37325,0.0,2021-12-31 04:42:09
+91,Frederick,Bell,Logistics,Warehouse Worker,90,3,23719,0.0,2023-01-27 09:17:10
+92,Michael,Brown,Logistics,Warehouse Worker,90,3,12846,0.0,2021-07-12 13:01:33
+93,Kimberly,Bell,Logistics,Warehouse Worker,90,3,17115,0.0,2019-01-19 23:28:54
+94,Mark,Brooks,Logistics,Warehouse Worker,90,3,24134,0.0,2019-03-17 12:44:48
+95,Ashley,Guerrero,Logistics,Courier,90,3,19655,0.0,2023-10-17 18:52:28
+96,Madison,Foster,Logistics,Courier,90,3,17317,0.0,2024-05-05 17:28:35
+97,Michele,Glover,Logistics,Warehouse Worker,90,3,22612,0.0,2022-05-27 18:41:46
+98,Cindy,Vasquez,Management,Director,0,4,82045,0.0,2022-05-19 02:15:39
+99,Michael,Mcdaniel,Management,Manager,98,4,57732,0.0,2022-10-19 16:43:28
+100,Elizabeth,Duke,Sales,Senior Salesperson,99,4,35242,0.07,2023-12-24 10:36:00
+101,James,Brennan,Sales,Salesperson,100,4,34753,0.05,2020-01-26 09:27:37
+102,Marie,Hull,Sales,Salesperson,100,4,25190,0.05,2019-04-30 03:31:46
+103,Mary,Burton,Sales,Salesperson,100,4,31666,0.05,2023-07-30 06:40:01
+104,Kenneth,Watkins,Sales,Salesperson,100,4,21236,0.05,2019-09-17 23:35:49
+105,Mitchell,Francis,Sales,Salesperson,100,4,32867,0.05,2020-05-18 18:22:08
+106,Melissa,Carroll,Sales,Salesperson,100,4,27575,0.05,2022-12-18 01:50:17
+107,Debra,Watson,Sales,Salesperson,100,4,24161,0.05,2019-02-12 22:49:04
+108,Elizabeth,Ortiz,Sales,Salesperson,100,4,33638,0.05,2020-04-02 09:02:12
+109,Mikayla,Hardin,Sales,Salesperson,100,4,29908,0.05,2020-11-28 01:03:42
+110,April,Beard,Sales,Salesperson,100,4,34367,0.05,2020-09-05 16:07:03
+111,Joshua,Cole,Support,Senior Support Agent,99,4,29907,0.0,2024-09-20 17:22:07
+112,Carolyn,White,Support,Support Agent,111,4,17313,0.0,2021-02-28 01:37:06
+113,Lisa,Jordan,Support,Support Agent,111,4,17259,0.0,2023-02-22 02:43:15
+114,Katherine,Stewart,Support,Support Agent,111,4,16015,0.0,2024-04-21 12:11:40
+115,Ashley,Walker,Support,Support Agent,111,4,16418,0.0,2021-09-12 03:03:26
+116,Michele,Baker,Support,Support Agent,111,4,24173,0.0,2024-01-06 09:48:46
+117,Brandon,Griffith,Support,Support Agent,111,4,24876,0.0,2022-06-12 05:13:17
+118,Derek,Benitez,Support,Support Agent,111,4,19773,0.0,2021-01-03 07:51:51
+119,Joshua,Thomas,Support,Support Agent,111,4,20696,0.0,2019-04-16 22:55:34
+120,Jeffrey,Tucker,Support,Support Agent,111,4,19528,0.0,2019-03-16 18:04:32
+121,Amanda,Moore,Support,Support Agent,111,4,20659,0.0,2023-04-08 08:54:49
+122,Melissa,Hernandez,Support,Support Agent,111,4,22040,0.0,2023-04-05 19:58:23
+123,Richard,Brown,Logistics,Chief of Logistics,99,4,41456,0.0,2021-05-14 03:30:32
+124,Amber,Miller,Logistics,Courier,123,4,18859,0.0,2024-01-22 07:23:39
+125,Melody,Lynn,Logistics,Courier,123,4,22681,0.0,2020-01-04 23:24:23
+126,Matthew,Young,Logistics,Warehouse Worker,123,4,13076,0.0,2019-09-12 10:43:17
+127,Kevin,Cannon,Logistics,Warehouse Worker,123,4,13097,0.0,2023-09-16 11:01:55
+128,Joseph,Kelly,Logistics,Courier,123,4,26680,0.0,2019-06-03 21:15:53
+129,John,Ruiz,Logistics,Courier,123,4,18200,0.0,2020-07-05 01:55:05
+130,Jo,Ramirez,Logistics,Courier,123,4,19246,0.0,2020-07-30 09:44:26
+131,Holly,Miller,Management,Director,0,5,73752,0.0,2023-08-26 22:23:19
+132,Stacey,Johnston,Management,Manager,131,5,59450,0.0,2024-10-01 03:03:12
+133,James,Miller,Sales,Senior Salesperson,132,5,32881,0.07,2024-07-22 07:08:25
+134,Hannah,Davis,Sales,Salesperson,133,5,27318,0.05,2020-06-26 23:04:43
+135,Steven,Morgan,Sales,Salesperson,133,5,27626,0.05,2019-09-27 23:59:11
+136,Kristin,Turner,Sales,Salesperson,133,5,25363,0.05,2021-01-02 20:31:22
+137,Marcus,Garcia,Sales,Salesperson,133,5,22266,0.05,2024-07-26 02:25:59
+138,Lisa,Powell,Sales,Salesperson,133,5,24685,0.05,2024-03-14 14:15:49
+139,Stephen,Miller,Sales,Salesperson,133,5,29229,0.05,2019-02-01 12:48:32
+140,Philip,Calderon,Sales,Salesperson,133,5,28000,0.05,2021-03-21 18:52:56
+141,Lonnie,Higgins,Sales,Salesperson,133,5,30902,0.05,2022-10-16 14:49:26
+142,Kimberly,Vasquez,Sales,Salesperson,133,5,30455,0.05,2023-04-17 09:07:25
+143,Charles,Bell,Sales,Salesperson,133,5,27969,0.05,2020-05-22 08:08:15
+144,Erin,Haas,Sales,Salesperson,133,5,33884,0.05,2023-01-26 15:48:23
+145,Scott,Wade,Support,Senior Support Agent,132,5,25495,0.0,2024-10-22 21:11:56
+146,Andrew,Rodriguez,Support,Support Agent,145,5,19960,0.0,2021-02-13 03:15:44
+147,Ashley,Patel,Support,Support Agent,145,5,15193,0.0,2019-12-13 09:05:38
+148,Phillip,Jenkins,Support,Support Agent,145,5,23683,0.0,2024-11-30 23:50:49
+149,Samantha,Davis,Support,Support Agent,145,5,15605,0.0,2024-02-13 07:59:44
+150,Laurie,Garcia,Support,Support Agent,145,5,18059,0.0,2023-10-31 19:39:50
+151,Michaela,Davis,Support,Support Agent,145,5,20570,0.0,2019-11-27 05:12:56
+152,Carolyn,Fowler,Support,Support Agent,145,5,22321,0.0,2021-07-24 13:08:42
+153,Jamie,Curry,Support,Support Agent,145,5,16961,0.0,2019-12-26 15:18:30
+154,Debra,Bauer,Support,Support Agent,145,5,23107,0.0,2024-05-14 23:04:23
+155,Joshua,Rios,Support,Support Agent,145,5,23633,0.0,2024-10-22 15:41:04
+156,Mark,Marshall,Support,Support Agent,145,5,24003,0.0,2022-02-21 19:49:41
+157,Gilbert,Leonard,Support,Support Agent,145,5,16835,0.0,2024-09-13 14:45:50
+158,Rebecca,Wilson,Support,Support Agent,145,5,22111,0.0,2020-08-18 15:47:24
+159,Joyce,Poole,Support,Support Agent,145,5,21215,0.0,2019-11-09 02:12:30
+160,Andrew,Jones,Support,Support Agent,145,5,17384,0.0,2019-11-12 01:46:12
+161,Anthony,Ochoa,Logistics,Chief of Logistics,132,5,44891,0.0,2022-04-15 17:03:07
+162,Matthew,Brown,Logistics,Warehouse Worker,161,5,23564,0.0,2023-11-11 17:34:05
+163,Angela,Brown,Logistics,Courier,161,5,23477,0.0,2024-01-07 13:05:45
+164,Diana,Pope,Logistics,Courier,161,5,19430,0.0,2021-04-11 20:39:53
+165,Shawn,Martinez,Logistics,Courier,161,5,19497,0.0,2019-06-12 20:45:11
+166,Sandy,Gomez,Logistics,Courier,161,5,29649,0.0,2022-06-04 23:19:59
+167,Angela,Fry,Logistics,Courier,161,5,19098,0.0,2021-08-29 10:25:54
+168,Kevin,Vaughn,Logistics,Warehouse Worker,161,5,15424,0.0,2024-07-26 03:02:21
+169,George,Brewer,Logistics,Courier,161,5,29139,0.0,2022-10-11 13:15:28
+170,Jennifer,Davis,Logistics,Courier,161,5,17366,0.0,2020-08-21 10:18:26
+171,Courtney,Frey,Logistics,Courier,161,5,25853,0.0,2020-05-29 09:54:49
+172,Roberto,King,Logistics,Warehouse Worker,161,5,20488,0.0,2022-10-12 11:12:37
+173,Kristin,Adams,Logistics,Courier,161,5,15225,0.0,2019-01-01 21:46:29
+174,Laura,Wyatt,Management,Director,0,6,99788,0.0,2022-05-16 02:21:49
+175,Daniel,Roy,Management,Manager,174,6,46695,0.0,2020-06-06 15:56:18
+176,Jacob,Woodard,Sales,Senior Salesperson,175,6,30536,0.07,2021-03-21 08:15:27
+177,Craig,Brown,Sales,Salesperson,176,6,28187,0.05,2021-09-25 07:07:12
+178,Brenda,Ryan,Sales,Salesperson,176,6,20206,0.05,2024-08-13 23:23:26
+179,Cody,Patterson,Sales,Salesperson,176,6,34801,0.05,2023-01-30 02:54:48
+180,Anthony,Guzman,Sales,Salesperson,176,6,32996,0.05,2021-09-01 14:06:16
+181,Regina,Owens,Sales,Salesperson,176,6,28948,0.05,2019-04-01 21:38:40
+182,Colleen,Patterson,Sales,Salesperson,176,6,24806,0.05,2019-02-25 16:11:38
+183,Emily,Madden,Sales,Salesperson,176,6,31493,0.05,2021-10-14 02:14:03
+184,Sharon,Harris,Sales,Salesperson,176,6,27826,0.05,2020-04-09 07:53:28
+185,Matthew,Jenkins,Sales,Salesperson,176,6,30648,0.05,2024-09-24 15:07:01
+186,Susan,Hernandez,Sales,Salesperson,176,6,30420,0.05,2020-08-12 23:43:43
+187,Michael,Walsh,Support,Senior Support Agent,175,6,28594,0.0,2019-08-21 02:57:29
+188,Charles,Smith,Support,Support Agent,187,6,23132,0.0,2019-11-27 19:03:12
+189,Erica,Webb,Support,Support Agent,187,6,17128,0.0,2022-02-25 05:17:48
+190,Amy,Rice,Support,Support Agent,187,6,19614,0.0,2024-09-21 05:22:49
+191,Diana,Smith,Support,Support Agent,187,6,23118,0.0,2021-04-01 15:22:25
+192,Brittany,Parsons,Support,Support Agent,187,6,16185,0.0,2019-12-05 08:46:03
+193,Karen,Proctor,Support,Support Agent,187,6,21021,0.0,2020-12-23 23:34:45
+194,James,Espinoza,Support,Support Agent,187,6,15957,0.0,2022-03-17 07:41:41
+195,Dominique,Hopkins,Support,Support Agent,187,6,19666,0.0,2024-12-01 05:54:18
+196,Kristen,Farmer,Support,Support Agent,187,6,15964,0.0,2020-08-22 21:36:37
+197,Jordan,Ward,Support,Support Agent,187,6,19490,0.0,2023-08-09 23:18:26
+198,Jessica,Pollard,Support,Support Agent,187,6,16989,0.0,2023-05-11 02:42:09
+199,Christopher,Peters,Support,Support Agent,187,6,21639,0.0,2022-04-05 16:50:37
+200,Sierra,Glover,Support,Support Agent,187,6,21774,0.0,2023-02-01 07:34:16
+201,Stephanie,Davidson,Support,Support Agent,187,6,22380,0.0,2019-10-08 03:23:38
+202,Francisco,Walsh,Logistics,Chief of Logistics,175,6,35128,0.0,2023-07-25 02:40:32
+203,Jennifer,Daniels,Logistics,Warehouse Worker,202,6,14642,0.0,2022-01-17 04:38:48
+204,Angie,Rodriguez,Logistics,Courier,202,6,22097,0.0,2024-11-07 04:57:31
+205,Paul,Soto,Logistics,Warehouse Worker,202,6,13696,0.0,2022-10-13 18:15:09
+206,Daniel,Bailey,Logistics,Courier,202,6,22401,0.0,2019-07-16 07:26:59
+207,Julia,Avila,Logistics,Courier,202,6,26685,0.0,2019-12-26 10:40:37
+208,Stephen,Martin,Logistics,Courier,202,6,29038,0.0,2020-09-12 23:07:46
+209,Stephanie,Garcia,Logistics,Warehouse Worker,202,6,18584,0.0,2020-08-19 04:10:14
+210,Jennifer,Romero,Logistics,Warehouse Worker,202,6,16004,0.0,2020-08-07 16:40:41
+211,Sheila,Barnes,Management,Director,0,7,81394,0.0,2023-05-16 00:21:50
+212,John,Robinson,Management,Manager,211,7,59961,0.0,2023-03-19 01:39:59
+213,Alan,Taylor,Sales,Senior Salesperson,212,7,33386,0.07,2024-02-18 07:33:34
+214,Andre,Taylor,Sales,Salesperson,213,7,21430,0.05,2024-07-25 16:50:56
+215,Tammy,Johnson,Sales,Salesperson,213,7,34246,0.05,2019-06-12 23:35:11
+216,George,Hill,Sales,Salesperson,213,7,31568,0.05,2022-07-17 14:38:13
+217,Victor,Rivera,Sales,Salesperson,213,7,31525,0.05,2022-10-11 01:20:04
+218,Eric,Hale,Sales,Salesperson,213,7,28943,0.05,2022-04-01 16:49:40
+219,Donna,Haynes,Sales,Salesperson,213,7,32538,0.05,2020-06-12 19:56:09
+220,Mitchell,Anderson,Sales,Salesperson,213,7,32146,0.05,2020-04-28 06:04:09
+221,Alex,Ross,Sales,Salesperson,213,7,33603,0.05,2021-03-14 12:35:39
+222,Mallory,Evans,Sales,Salesperson,213,7,32413,0.05,2022-10-25 17:03:25
+223,Stanley,Steele,Sales,Salesperson,213,7,22967,0.05,2019-11-08 10:19:45
+224,Danielle,Nelson,Sales,Salesperson,213,7,20130,0.05,2022-10-05 12:14:43
+225,Margaret,Sutton,Sales,Salesperson,213,7,30016,0.05,2023-02-01 03:14:39
+226,Elizabeth,Thompson,Sales,Salesperson,213,7,26633,0.05,2024-07-18 10:03:21
+227,Erin,Russell,Sales,Salesperson,213,7,24317,0.05,2022-01-08 19:53:50
+228,Scott,Bryant,Support,Senior Support Agent,212,7,20618,0.0,2019-06-09 00:20:07
+229,Dawn,Sellers,Support,Support Agent,228,7,18536,0.0,2020-01-29 17:45:04
+230,Michael,Jones,Support,Support Agent,228,7,21965,0.0,2022-10-16 22:26:06
+231,Katherine,Johnson,Support,Support Agent,228,7,23969,0.0,2024-08-27 20:20:01
+232,Matthew,Gomez,Support,Support Agent,228,7,20758,0.0,2020-06-03 21:48:41
+233,Scott,Cooper,Support,Support Agent,228,7,23632,0.0,2019-04-05 23:11:54
+234,Kathryn,Vazquez,Support,Support Agent,228,7,22744,0.0,2020-08-07 16:50:08
+235,Jason,Harrison,Support,Support Agent,228,7,21988,0.0,2024-10-04 19:10:55
+236,Patrick,Gilbert,Logistics,Chief of Logistics,212,7,28129,0.0,2023-06-17 15:44:19
+237,Russell,Nicholson,Logistics,Courier,236,7,25850,0.0,2022-10-15 04:11:27
+238,Nancy,Murray,Logistics,Courier,236,7,23279,0.0,2021-02-18 04:38:15
+239,Katie,Morgan,Logistics,Warehouse Worker,236,7,23543,0.0,2021-05-23 21:05:40
+240,Mark,Green,Logistics,Courier,236,7,20093,0.0,2022-07-10 01:26:09
+241,Kim,Johnston,Logistics,Courier,236,7,28399,0.0,2020-08-09 02:12:25
+242,Susan,Nunez,Logistics,Warehouse Worker,236,7,20109,0.0,2021-09-17 12:37:11
+243,Gary,Johnson,Logistics,Courier,236,7,29423,0.0,2022-04-24 08:20:48
+244,Shelley,Carter,Logistics,Warehouse Worker,236,7,21306,0.0,2020-04-28 14:21:07
+245,Melissa,Vasquez,Logistics,Warehouse Worker,236,7,23622,0.0,2022-05-25 22:44:05
+246,Crystal,Martin,Logistics,Warehouse Worker,236,7,17434,0.0,2020-07-24 22:50:24
+247,Adrian,Wilson,Management,Director,0,8,70094,0.0,2020-06-16 08:31:48
+248,Anthony,Fuentes,Management,Manager,247,8,52700,0.0,2023-08-05 04:55:26
+249,Jessica,Montgomery,Sales,Senior Salesperson,248,8,38155,0.07,2022-08-16 16:32:48
+250,Christopher,Williams,Sales,Salesperson,249,8,22713,0.05,2023-11-28 11:48:43
+251,Cindy,Garcia,Sales,Salesperson,249,8,22217,0.05,2021-05-10 06:01:39
+252,Dale,Browning,Sales,Salesperson,249,8,34128,0.05,2021-10-21 23:47:02
+253,David,Stanley,Sales,Salesperson,249,8,21469,0.05,2021-01-10 21:17:35
+254,Rebecca,Myers,Sales,Salesperson,249,8,28346,0.05,2022-10-06 08:55:04
+255,Michele,Brown,Sales,Salesperson,249,8,28885,0.05,2019-05-14 22:00:28
+256,Pamela,Parker,Sales,Salesperson,249,8,31804,0.05,2024-11-23 18:33:23
+257,Joe,Myers,Sales,Salesperson,249,8,22051,0.05,2020-03-03 17:00:59
+258,Melanie,Sharp,Sales,Salesperson,249,8,34273,0.05,2019-12-17 20:39:35
+259,Kathryn,Lopez,Sales,Salesperson,249,8,25800,0.05,2021-04-28 09:32:23
+260,Jessica,Hernandez,Sales,Salesperson,249,8,20998,0.05,2020-10-30 15:58:12
+261,James,Williamson,Support,Senior Support Agent,248,8,32977,0.0,2019-05-22 07:11:12
+262,Joseph,Harris,Support,Support Agent,261,8,24183,0.0,2019-12-13 11:58:04
+263,Andrew,Velez,Support,Support Agent,261,8,16829,0.0,2019-08-14 13:29:50
+264,Charles,Williams,Support,Support Agent,261,8,19279,0.0,2021-09-02 11:03:34
+265,Susan,Gamble,Support,Support Agent,261,8,21025,0.0,2020-09-30 13:19:31
+266,Steven,Massey,Support,Support Agent,261,8,19013,0.0,2019-03-31 11:18:36
+267,Melissa,Dominguez,Support,Support Agent,261,8,15970,0.0,2019-10-12 22:33:01
+268,Brian,Simon,Support,Support Agent,261,8,23964,0.0,2023-12-26 23:53:18
+269,Carla,White,Support,Support Agent,261,8,16347,0.0,2024-04-09 00:35:16
+270,Tony,Rice,Support,Support Agent,261,8,22470,0.0,2019-12-08 20:36:15
+271,Linda,Horton,Support,Support Agent,261,8,22107,0.0,2023-09-12 18:45:56
+272,Melissa,Bird,Support,Support Agent,261,8,21534,0.0,2020-04-24 23:02:58
+273,Sierra,Downs,Logistics,Chief of Logistics,248,8,28765,0.0,2020-06-29 04:59:48
+274,Carolyn,Vaughn,Logistics,Courier,273,8,24484,0.0,2020-09-20 11:40:41
+275,Katelyn,Meyer,Logistics,Courier,273,8,20988,0.0,2022-07-01 22:43:01
+276,Bryan,Wilson,Logistics,Warehouse Worker,273,8,15653,0.0,2020-07-29 17:23:59
+277,Yesenia,Roberts,Logistics,Warehouse Worker,273,8,13936,0.0,2024-09-22 23:38:27
+278,Caitlin,Mendoza,Logistics,Warehouse Worker,273,8,13175,0.0,2023-05-15 20:57:17
+279,Caitlin,Morris,Logistics,Warehouse Worker,273,8,16845,0.0,2021-05-26 21:43:57
+280,Caleb,Bray,Logistics,Courier,273,8,17618,0.0,2022-11-23 08:38:01
+281,Steven,Monroe,Logistics,Courier,273,8,24027,0.0,2019-06-22 05:54:58
+282,Elizabeth,Aguilar,Management,Director,0,9,96277,0.0,2021-08-02 12:59:14
+283,Courtney,Orozco,Management,Manager,282,9,56731,0.0,2019-10-17 20:40:23
+284,Jonathan,Chen,Sales,Senior Salesperson,283,9,30184,0.07,2024-06-29 21:46:11
+285,Jessica,Martinez,Sales,Salesperson,284,9,34166,0.05,2021-09-06 00:20:30
+286,Richard,Barnes,Sales,Salesperson,284,9,32636,0.05,2023-01-05 20:35:00
+287,Amber,Hayes,Sales,Salesperson,284,9,32169,0.05,2021-07-10 03:48:07
+288,Danielle,Cooke,Sales,Salesperson,284,9,20505,0.05,2020-07-22 13:56:31
+289,Megan,David,Sales,Salesperson,284,9,31765,0.05,2024-08-24 22:18:23
+290,Charles,Harris,Sales,Salesperson,284,9,25733,0.05,2021-01-22 13:34:46
+291,Christopher,Murray,Sales,Salesperson,284,9,23289,0.05,2020-10-19 18:40:58
+292,Andrea,Walls,Sales,Salesperson,284,9,23183,0.05,2023-07-14 10:42:01
+293,Brooke,Nelson,Sales,Salesperson,284,9,25432,0.05,2023-12-04 13:44:38
+294,Tiffany,Morris,Sales,Salesperson,284,9,22459,0.05,2023-12-31 21:53:58
+295,Brittany,Santos,Sales,Salesperson,284,9,33294,0.05,2022-01-06 00:28:53
+296,Jared,Ellis,Sales,Salesperson,284,9,30303,0.05,2022-03-06 19:24:07
+297,Joseph,Parks,Sales,Salesperson,284,9,24082,0.05,2019-07-19 00:46:11
+298,Peggy,Washington,Sales,Salesperson,284,9,30087,0.05,2022-03-09 09:31:32
+299,Allen,Gates,Sales,Salesperson,284,9,22986,0.05,2021-05-18 17:36:02
+300,Robert,Wang,Support,Senior Support Agent,283,9,27011,0.0,2019-08-19 08:52:35
+301,Renee,Gilbert,Support,Support Agent,300,9,23366,0.0,2024-10-31 22:05:26
+302,Brianna,Guzman,Support,Support Agent,300,9,19958,0.0,2020-01-09 23:43:56
+303,Julia,Horton,Support,Support Agent,300,9,20621,0.0,2020-09-16 11:33:34
+304,Cynthia,Hinton,Support,Support Agent,300,9,24250,0.0,2020-03-01 19:38:28
+305,Amanda,Gonzales,Support,Support Agent,300,9,21533,0.0,2024-04-10 14:06:05
+306,John,Knight,Support,Support Agent,300,9,19068,0.0,2023-01-07 02:32:34
+307,Blake,Duffy,Logistics,Chief of Logistics,283,9,34413,0.0,2023-10-18 08:24:12
+308,Kaitlyn,Hickman,Logistics,Courier,307,9,27535,0.0,2021-07-19 05:15:54
+309,Bianca,Thomas,Logistics,Courier,307,9,16192,0.0,2024-02-07 16:55:36
+310,William,Ramirez,Logistics,Warehouse Worker,307,9,12683,0.0,2024-03-17 00:40:53
+311,Susan,Stewart,Logistics,Courier,307,9,20641,0.0,2024-12-18 05:01:46
+312,Brian,Anderson,Logistics,Warehouse Worker,307,9,15975,0.0,2020-01-08 15:05:14
+313,Scott,Banks,Logistics,Courier,307,9,29957,0.0,2023-03-09 02:28:08
+314,Steven,Baker,Logistics,Warehouse Worker,307,9,13332,0.0,2020-09-03 08:30:16
+315,Mark,Johnson,Logistics,Courier,307,9,18328,0.0,2022-03-08 09:37:11
+316,Carrie,Pena,Management,Director,0,10,95599,0.0,2019-03-08 05:02:23
+317,Steven,Miranda,Management,Manager,316,10,53044,0.0,2020-11-16 08:33:20
+318,Patrick,Jackson,Sales,Senior Salesperson,317,10,35706,0.07,2021-12-24 18:39:31
+319,Adam,Matthews,Sales,Salesperson,318,10,21802,0.05,2022-12-04 12:47:23
+320,Bill,Brewer,Sales,Salesperson,318,10,33541,0.05,2020-03-31 04:55:20
+321,Scott,Smith,Sales,Salesperson,318,10,29444,0.05,2020-09-17 23:43:36
+322,Veronica,Martinez,Sales,Salesperson,318,10,25422,0.05,2020-12-14 08:42:49
+323,Patricia,Hernandez,Sales,Salesperson,318,10,32793,0.05,2020-11-29 01:32:02
+324,April,Reese,Sales,Salesperson,318,10,29766,0.05,2023-01-16 14:20:51
+325,Richard,Cline,Sales,Salesperson,318,10,23478,0.05,2021-02-25 18:25:20
+326,Donald,Brown,Sales,Salesperson,318,10,20290,0.05,2020-07-25 04:36:27
+327,Gordon,Smith,Sales,Salesperson,318,10,21776,0.05,2022-01-25 02:29:30
+328,Raymond,Clarke,Support,Senior Support Agent,317,10,20095,0.0,2022-03-27 01:21:10
+329,Crystal,Nguyen,Support,Support Agent,328,10,16689,0.0,2023-03-23 04:56:53
+330,Mark,May,Support,Support Agent,328,10,17898,0.0,2023-03-03 19:19:05
+331,Richard,House,Support,Support Agent,328,10,16851,0.0,2019-12-17 23:32:48
+332,Nicole,Perkins,Support,Support Agent,328,10,15970,0.0,2022-11-17 03:21:51
+333,Michael,Calderon,Support,Support Agent,328,10,19725,0.0,2024-04-20 08:49:24
+334,Eric,Houston,Support,Support Agent,328,10,23565,0.0,2019-02-04 12:22:42
+335,Rachel,Black,Support,Support Agent,328,10,21117,0.0,2021-10-30 03:17:34
+336,Jeremy,Moore,Logistics,Chief of Logistics,317,10,28043,0.0,2024-06-23 08:42:25
+337,Christopher,Tate,Logistics,Courier,336,10,22318,0.0,2020-05-11 23:09:53
+338,David,Thomas,Logistics,Warehouse Worker,336,10,23972,0.0,2019-12-28 09:34:11
+339,Haley,Hernandez,Logistics,Courier,336,10,15025,0.0,2023-09-25 13:27:55
+340,Michelle,Wilson,Logistics,Courier,336,10,27953,0.0,2019-04-09 11:23:14
+341,Deanna,Jackson,Logistics,Warehouse Worker,336,10,24837,0.0,2021-08-07 16:08:36
+342,Thomas,Moore,Logistics,Warehouse Worker,336,10,22043,0.0,2023-07-29 11:42:36
+343,Tonya,Wilson,Logistics,Warehouse Worker,336,10,19791,0.0,2023-01-16 14:23:08
+344,Marie,Lee,Logistics,Courier,336,10,21226,0.0,2021-06-19 18:30:37
+345,Jonathan,Wilkins,Logistics,Warehouse Worker,336,10,12808,0.0,2021-05-15 19:42:33
+346,Jennifer,Roberts,Logistics,Courier,336,10,19025,0.0,2021-03-11 09:11:22
+347,Mark,Webb,Logistics,Courier,336,10,20477,0.0,2024-12-13 19:00:35
+348,Jennifer,Olson,Logistics,Courier,336,10,25065,0.0,2022-06-14 23:49:45
+349,Amanda,Wright,Logistics,Courier,336,10,18355,0.0,2020-12-22 21:37:24
+350,Robert,Grimes,Logistics,Courier,336,10,17540,0.0,2023-06-06 10:51:34
+351,David,Stephenson,Logistics,Warehouse Worker,336,10,17982,0.0,2023-09-23 01:17:44
+352,Lori,Russell,Management,Director,0,11,73838,0.0,2020-01-29 13:27:18
+353,Nathan,Lynn,Management,Manager,352,11,52362,0.0,2020-01-04 15:12:20
+354,Cody,Kemp,Sales,Senior Salesperson,353,11,33254,0.07,2021-04-26 04:23:02
+355,Shane,Alexander,Sales,Salesperson,354,11,21350,0.05,2023-11-24 17:54:15
+356,Alexander,Cruz,Sales,Salesperson,354,11,32153,0.05,2020-08-04 11:16:14
+357,Robert,Ray,Sales,Salesperson,354,11,24345,0.05,2021-07-10 18:01:26
+358,Leslie,Clayton,Sales,Salesperson,354,11,34725,0.05,2019-12-07 13:15:33
+359,Christina,Austin,Sales,Salesperson,354,11,25919,0.05,2022-04-20 13:43:34
+360,Erica,Henderson,Sales,Salesperson,354,11,20446,0.05,2019-10-25 15:05:29
+361,Melissa,Mendoza,Sales,Salesperson,354,11,28447,0.05,2020-03-05 16:54:06
+362,Kevin,Waters,Support,Senior Support Agent,353,11,30265,0.0,2019-03-04 03:03:32
+363,Daniel,Patterson,Support,Support Agent,362,11,19914,0.0,2022-11-15 22:31:16
+364,David,Cooper,Support,Support Agent,362,11,24924,0.0,2023-10-26 16:17:12
+365,Angela,Russell,Support,Support Agent,362,11,18707,0.0,2023-02-26 06:48:24
+366,Anne,Rivera,Support,Support Agent,362,11,23004,0.0,2024-05-29 17:46:26
+367,Robert,Davis,Support,Support Agent,362,11,21558,0.0,2024-08-09 04:43:47
+368,Jonathan,Austin,Support,Support Agent,362,11,21198,0.0,2022-04-05 21:16:42
+369,Peter,Schneider,Support,Support Agent,362,11,18277,0.0,2023-05-02 02:16:02
+370,Brian,White,Support,Support Agent,362,11,23149,0.0,2022-12-17 11:45:37
+371,Amanda,Martinez,Support,Support Agent,362,11,15113,0.0,2020-09-06 06:40:38
+372,Cindy,Swanson,Support,Support Agent,362,11,21628,0.0,2023-12-10 02:47:58
+373,Nathan,Simpson,Logistics,Chief of Logistics,353,11,30109,0.0,2020-03-07 04:47:50
+374,Andrew,Bowers,Logistics,Courier,373,11,23731,0.0,2021-10-02 21:26:39
+375,Debbie,Pugh,Logistics,Warehouse Worker,373,11,18416,0.0,2019-10-22 07:57:09
+376,Jeffrey,Guzman,Logistics,Warehouse Worker,373,11,21923,0.0,2023-06-30 08:40:11
+377,Mary,Day,Logistics,Warehouse Worker,373,11,19327,0.0,2020-01-01 19:29:50
+378,Micheal,Reese,Logistics,Courier,373,11,21652,0.0,2024-08-23 22:25:29
+379,Christopher,Smith,Logistics,Warehouse Worker,373,11,13611,0.0,2022-06-01 05:26:12
+380,Elizabeth,Haas,Logistics,Warehouse Worker,373,11,15740,0.0,2023-04-11 15:07:30
+381,Arthur,Kelly,Logistics,Warehouse Worker,373,11,23093,0.0,2023-12-13 17:01:24
+382,Jorge,Banks,Logistics,Courier,373,11,21847,0.0,2019-12-11 09:22:34
+383,Sara,King,Logistics,Warehouse Worker,373,11,16587,0.0,2021-11-13 18:59:57
+384,Kyle,Perez,Management,Director,0,12,67192,0.0,2021-08-06 05:48:38
+385,Angela,Smith,Management,Manager,384,12,46800,0.0,2023-10-26 01:02:30
+386,Maria,Mora,Sales,Senior Salesperson,385,12,35584,0.07,2024-04-17 12:31:07
+387,Joseph,Dillon,Sales,Salesperson,386,12,27163,0.05,2022-07-29 11:52:41
+388,Tracy,Hernandez,Sales,Salesperson,386,12,22316,0.05,2021-08-04 03:03:57
+389,Andrea,Wilson,Sales,Salesperson,386,12,29684,0.05,2024-10-20 10:39:13
+390,Jennifer,Williams,Sales,Salesperson,386,12,30726,0.05,2022-04-13 13:21:57
+391,Corey,Marquez,Sales,Salesperson,386,12,23457,0.05,2019-05-15 02:53:40
+392,Melinda,Washington,Sales,Salesperson,386,12,29938,0.05,2024-03-24 21:27:22
+393,Stephanie,Huynh,Support,Senior Support Agent,385,12,34743,0.0,2019-08-24 21:46:32
+394,Mark,Harris,Support,Support Agent,393,12,21490,0.0,2021-08-16 22:23:33
+395,Anne,Flores,Support,Support Agent,393,12,20641,0.0,2019-10-29 03:19:09
+396,Scott,Guzman,Support,Support Agent,393,12,21092,0.0,2023-06-02 11:54:14
+397,Warren,Harris,Support,Support Agent,393,12,19044,0.0,2020-10-02 20:34:09
+398,Lisa,Chapman,Support,Support Agent,393,12,15051,0.0,2023-06-02 00:33:43
+399,Miranda,York,Support,Support Agent,393,12,15520,0.0,2021-10-31 02:53:44
+400,Emily,Peterson,Support,Support Agent,393,12,18085,0.0,2019-10-11 12:51:27
+401,Thomas,Haley,Support,Support Agent,393,12,24545,0.0,2024-06-23 03:14:40
+402,Haley,Roberts,Logistics,Chief of Logistics,385,12,34039,0.0,2024-06-24 13:14:02
+403,David,Hull,Logistics,Courier,402,12,26648,0.0,2021-04-29 16:53:48
+404,Robert,Rodriguez,Logistics,Courier,402,12,21929,0.0,2019-04-12 07:51:56
+405,Carolyn,Kramer,Logistics,Courier,402,12,27570,0.0,2022-11-11 04:11:21
+406,Christian,Ferguson,Logistics,Warehouse Worker,402,12,16604,0.0,2020-03-16 16:34:22
+407,Thomas,Bean,Logistics,Courier,402,12,22128,0.0,2023-05-19 22:54:39
+408,Louis,Galloway,Logistics,Courier,402,12,19728,0.0,2020-05-30 10:04:26
+409,Chad,Bennett,Management,Director,0,13,89656,0.0,2022-09-20 16:38:20
+410,Mark,Cuevas,Management,Manager,409,13,54158,0.0,2024-05-19 14:07:44
+411,Aaron,Peters,Sales,Senior Salesperson,410,13,34642,0.07,2023-04-24 06:35:28
+412,Chad,Gutierrez,Sales,Salesperson,411,13,22180,0.05,2020-04-03 06:44:21
+413,Matthew,Guerrero,Sales,Salesperson,411,13,28790,0.05,2023-12-18 13:22:20
+414,Christine,Barber,Sales,Salesperson,411,13,27549,0.05,2023-05-02 21:16:18
+415,Cheryl,Williams,Sales,Salesperson,411,13,32558,0.05,2021-02-10 06:10:54
+416,Joseph,Wang,Sales,Salesperson,411,13,20994,0.05,2020-08-02 02:01:47
+417,David,Dominguez,Support,Senior Support Agent,410,13,34641,0.0,2024-05-07 04:08:38
+418,Caroline,Douglas,Support,Support Agent,417,13,15836,0.0,2024-02-02 07:02:11
+419,Kim,Burns,Support,Support Agent,417,13,22363,0.0,2024-03-06 17:03:52
+420,Troy,Lawson,Support,Support Agent,417,13,20587,0.0,2021-01-16 06:06:06
+421,Tanner,Lee,Support,Support Agent,417,13,22816,0.0,2021-01-20 03:28:52
+422,Tammy,Le,Support,Support Agent,417,13,22226,0.0,2021-11-28 18:48:49
+423,Crystal,Lee,Support,Support Agent,417,13,23624,0.0,2020-11-25 18:42:51
+424,Megan,Cohen,Support,Support Agent,417,13,22285,0.0,2023-12-04 22:45:13
+425,Thomas,Moon,Support,Support Agent,417,13,22323,0.0,2020-04-18 00:59:06
+426,Jeffrey,Benjamin,Support,Support Agent,417,13,17625,0.0,2019-04-24 08:20:04
+427,Michelle,Jones,Logistics,Chief of Logistics,410,13,43522,0.0,2021-12-12 12:36:09
+428,David,Barton,Logistics,Warehouse Worker,427,13,14868,0.0,2021-10-29 01:23:57
+429,Kerry,Gonzales,Logistics,Courier,427,13,20745,0.0,2020-08-05 22:36:28
+430,Ryan,Smith,Logistics,Courier,427,13,16550,0.0,2023-02-12 04:07:46
+431,Dakota,Roberts,Logistics,Warehouse Worker,427,13,13613,0.0,2022-10-02 15:32:40
+432,Chase,Cook,Logistics,Warehouse Worker,427,13,14785,0.0,2020-06-30 12:32:08
+433,Carol,Le,Logistics,Courier,427,13,25927,0.0,2021-04-29 07:56:23
+434,Cory,Stephens,Management,Director,0,14,62188,0.0,2024-09-21 16:32:38
+435,Lindsay,Smith,Management,Manager,434,14,49048,0.0,2022-11-29 05:27:02
+436,Tracey,Gonzalez,Sales,Senior Salesperson,435,14,34141,0.07,2021-01-01 14:52:32
+437,Phillip,Strickland,Sales,Salesperson,436,14,26178,0.05,2024-01-11 02:08:28
+438,Stephanie,Price,Sales,Salesperson,436,14,33860,0.05,2021-05-12 14:28:57
+439,James,Nelson,Sales,Salesperson,436,14,23723,0.05,2023-11-26 12:56:01
+440,Marcus,Stevens,Sales,Salesperson,436,14,25844,0.05,2023-03-05 15:26:32
+441,Christopher,Molina,Sales,Salesperson,436,14,29360,0.05,2023-03-25 16:31:12
+442,Deanna,Parker,Sales,Salesperson,436,14,28268,0.05,2020-12-28 09:38:01
+443,Michelle,Baker,Sales,Salesperson,436,14,33631,0.05,2023-12-09 03:52:49
+444,Sarah,Kelley,Sales,Salesperson,436,14,27640,0.05,2023-04-03 19:15:31
+445,Stephen,Hayden,Sales,Salesperson,436,14,23981,0.05,2019-06-25 15:49:17
+446,Matthew,Silva,Sales,Salesperson,436,14,25494,0.05,2020-11-27 04:08:57
+447,Carol,Ballard,Sales,Salesperson,436,14,31158,0.05,2020-09-10 16:50:41
+448,Leslie,Ritter,Sales,Salesperson,436,14,21239,0.05,2022-11-10 01:18:06
+449,Morgan,Smith,Sales,Salesperson,436,14,34629,0.05,2021-10-20 05:32:11
+450,Barbara,Simmons,Sales,Salesperson,436,14,25349,0.05,2023-06-04 21:20:48
+451,Brian,Lozano,Support,Senior Support Agent,435,14,26074,0.0,2022-07-24 00:00:25
+452,Jeff,Jackson,Support,Support Agent,451,14,18264,0.0,2024-05-19 11:31:02
+453,David,Mcpherson,Support,Support Agent,451,14,16165,0.0,2024-05-23 21:01:19
+454,Manuel,Johnson,Support,Support Agent,451,14,24059,0.0,2020-11-13 19:54:38
+455,Tracey,Perez,Support,Support Agent,451,14,17656,0.0,2024-09-07 18:52:15
+456,Jonathan,Butler,Support,Support Agent,451,14,19859,0.0,2023-10-24 21:17:58
+457,Bryan,Cordova,Support,Support Agent,451,14,23938,0.0,2023-04-21 10:02:08
+458,Christina,White,Support,Support Agent,451,14,23021,0.0,2021-03-07 22:53:08
+459,Amanda,Silva,Support,Support Agent,451,14,15404,0.0,2022-08-02 00:43:10
+460,Caleb,Hamilton,Support,Support Agent,451,14,24971,0.0,2021-12-22 11:17:03
+461,Thomas,Weaver,Support,Support Agent,451,14,15853,0.0,2021-04-25 06:56:36
+462,Amanda,Howell,Support,Support Agent,451,14,15911,0.0,2022-09-22 08:00:54
+463,Yolanda,Wallace,Logistics,Chief of Logistics,435,14,41969,0.0,2020-06-19 00:45:11
+464,Cynthia,White,Logistics,Courier,463,14,18599,0.0,2019-11-21 00:23:47
+465,Tricia,Hamilton,Logistics,Warehouse Worker,463,14,17318,0.0,2021-02-12 20:12:32
+466,Rachel,Nelson,Logistics,Courier,463,14,19630,0.0,2024-04-26 11:40:22
+467,Caleb,Austin,Logistics,Warehouse Worker,463,14,13953,0.0,2020-10-19 23:22:06
+468,Kevin,Ferguson,Logistics,Courier,463,14,29223,0.0,2024-12-25 20:29:45
+469,Mary,Murillo,Logistics,Warehouse Worker,463,14,12040,0.0,2023-10-30 10:38:06
+470,Joanna,Robinson,Logistics,Warehouse Worker,463,14,20423,0.0,2019-05-19 07:53:07
+471,Mary,Rollins,Logistics,Courier,463,14,22004,0.0,2023-10-25 03:10:51
+472,Kimberly,Nguyen,Management,Director,0,15,98384,0.0,2021-11-01 12:43:00
+473,Jennifer,Joseph,Management,Manager,472,15,48294,0.0,2022-08-01 00:07:08
+474,Samantha,Murphy,Sales,Senior Salesperson,473,15,34873,0.07,2020-12-31 00:12:29
+475,Sherry,Short,Sales,Salesperson,474,15,32522,0.05,2020-05-25 10:41:23
+476,Cheyenne,Davis,Sales,Salesperson,474,15,29497,0.05,2022-11-28 19:01:59
+477,Derek,Webb,Sales,Salesperson,474,15,23816,0.05,2023-09-28 05:25:52
+478,Daniel,Frazier,Sales,Salesperson,474,15,25759,0.05,2023-09-23 20:59:08
+479,Donna,French,Sales,Salesperson,474,15,28222,0.05,2019-04-14 03:02:32
+480,Kevin,Jones,Sales,Salesperson,474,15,25403,0.05,2021-06-13 11:02:15
+481,Mario,Chambers,Support,Senior Support Agent,473,15,27518,0.0,2021-10-26 18:46:15
+482,Edward,Hughes,Support,Support Agent,481,15,18655,0.0,2021-04-16 13:24:31
+483,Henry,Ray,Support,Support Agent,481,15,15087,0.0,2022-03-26 10:28:04
+484,Jennifer,Mccullough,Support,Support Agent,481,15,19699,0.0,2020-11-01 09:06:14
+485,Billy,Lane,Support,Support Agent,481,15,15776,0.0,2019-06-12 09:36:17
+486,Edward,Pena,Support,Support Agent,481,15,21072,0.0,2019-05-27 08:15:54
+487,James,Smith,Support,Support Agent,481,15,15505,0.0,2021-02-24 19:58:55
+488,Nicholas,Jones,Support,Support Agent,481,15,16036,0.0,2021-07-30 21:44:51
+489,Samantha,Chen,Support,Support Agent,481,15,17512,0.0,2019-05-19 10:22:17
+490,Roy,Stevens,Support,Support Agent,481,15,20013,0.0,2020-09-26 06:33:45
+491,Linda,Cook,Support,Support Agent,481,15,20240,0.0,2019-01-12 05:15:51
+492,David,Neal,Support,Support Agent,481,15,18100,0.0,2022-09-17 06:28:32
+493,Susan,Ali,Logistics,Chief of Logistics,473,15,33282,0.0,2022-05-05 13:24:36
+494,Patrick,Spencer,Logistics,Courier,493,15,22550,0.0,2019-01-09 04:25:49
+495,Miranda,Wagner,Logistics,Courier,493,15,20914,0.0,2024-06-18 06:28:40
+496,Anne,Pugh,Logistics,Warehouse Worker,493,15,18369,0.0,2021-09-25 10:54:09
+497,Megan,Hunt,Logistics,Warehouse Worker,493,15,24922,0.0,2021-11-08 11:44:19
+498,Craig,Lewis,Logistics,Courier,493,15,25588,0.0,2022-01-17 23:29:02
+499,Kristin,White,Logistics,Warehouse Worker,493,15,15294,0.0,2020-02-02 17:11:55
+500,Christopher,Brown,Logistics,Warehouse Worker,493,15,21266,0.0,2023-03-30 18:50:05
+501,Kathryn,Terry,Logistics,Warehouse Worker,493,15,19211,0.0,2020-08-06 12:02:02
+502,Tiffany,Collins,Logistics,Courier,493,15,15201,0.0,2023-09-05 18:33:58
+503,Mikayla,Walker,Logistics,Warehouse Worker,493,15,20512,0.0,2022-11-29 04:38:31
+504,Megan,Combs,Logistics,Warehouse Worker,493,15,21913,0.0,2024-11-15 15:00:18
+505,Laura,Erickson,Logistics,Courier,493,15,28379,0.0,2019-03-17 15:02:16
+506,Tammy,Kane,Management,Director,0,16,73234,0.0,2022-01-16 09:04:24
+507,Michael,Ellis,Management,Manager,506,16,56370,0.0,2020-12-01 10:20:36
+508,Jamie,Johnson,Sales,Senior Salesperson,507,16,39410,0.07,2021-08-19 05:08:54
+509,Christopher,Taylor,Sales,Salesperson,508,16,21160,0.05,2020-05-09 17:25:13
+510,Sara,Walker,Sales,Salesperson,508,16,28881,0.05,2019-06-15 11:54:48
+511,Michael,Miller,Sales,Salesperson,508,16,23955,0.05,2022-04-30 14:19:48
+512,Kim,Hamilton,Sales,Salesperson,508,16,20908,0.05,2023-10-03 00:24:27
+513,Heather,Walton,Sales,Salesperson,508,16,27399,0.05,2023-02-14 15:21:39
+514,Cathy,Lang,Sales,Salesperson,508,16,20616,0.05,2022-09-03 08:49:19
+515,Vanessa,Taylor,Sales,Salesperson,508,16,26235,0.05,2020-06-11 14:54:08
+516,Elizabeth,Martinez,Sales,Salesperson,508,16,20173,0.05,2023-02-14 21:37:05
+517,Amber,Johnson,Sales,Salesperson,508,16,30874,0.05,2019-09-16 00:24:51
+518,Dan,Parker,Sales,Salesperson,508,16,27879,0.05,2024-10-16 23:56:05
+519,Holly,Stein,Sales,Salesperson,508,16,29872,0.05,2021-10-27 14:47:43
+520,John,Cunningham,Sales,Salesperson,508,16,28269,0.05,2021-10-10 02:32:33
+521,Savannah,Obrien,Support,Senior Support Agent,507,16,29865,0.0,2022-10-12 00:28:22
+522,Mary,Guerra,Support,Support Agent,521,16,19950,0.0,2022-08-29 01:02:09
+523,Breanna,Harris,Support,Support Agent,521,16,22787,0.0,2021-09-02 02:47:41
+524,Willie,Christian,Support,Support Agent,521,16,23145,0.0,2023-06-28 13:11:58
+525,Nicholas,Sherman,Support,Support Agent,521,16,24954,0.0,2024-10-24 23:44:14
+526,Jerome,Scott,Support,Support Agent,521,16,17536,0.0,2022-11-17 23:05:12
+527,Michele,Calderon,Support,Support Agent,521,16,19660,0.0,2020-05-08 16:51:51
+528,Virginia,Blanchard,Support,Support Agent,521,16,15468,0.0,2023-01-18 11:46:29
+529,William,Joyce,Support,Support Agent,521,16,17193,0.0,2020-12-19 08:41:29
+530,Katie,Hernandez,Support,Support Agent,521,16,19385,0.0,2023-12-21 05:44:18
+531,Meredith,Liu,Support,Support Agent,521,16,24957,0.0,2022-03-30 02:39:27
+532,Laura,Bartlett,Logistics,Chief of Logistics,507,16,25072,0.0,2023-06-18 05:44:10
+533,James,Stone,Logistics,Warehouse Worker,532,16,15025,0.0,2022-08-01 10:05:32
+534,Melanie,Garcia,Logistics,Courier,532,16,26642,0.0,2019-06-05 02:47:54
+535,Michelle,Hinton,Logistics,Courier,532,16,28698,0.0,2024-04-20 18:19:03
+536,Anthony,Williams,Logistics,Warehouse Worker,532,16,21212,0.0,2020-09-24 11:27:39
+537,William,Pope,Logistics,Courier,532,16,27737,0.0,2019-05-28 10:58:04
+538,Gregory,Reyes,Logistics,Courier,532,16,25344,0.0,2020-09-25 17:03:53
+539,Danielle,Torres,Logistics,Courier,532,16,25757,0.0,2022-08-07 07:34:14
+540,Andrew,Greene,Logistics,Warehouse Worker,532,16,17036,0.0,2023-05-23 23:09:23
+541,Michael,Pineda,Logistics,Courier,532,16,15289,0.0,2020-12-27 00:38:19
+542,Jennifer,Davis,Logistics,Warehouse Worker,532,16,13827,0.0,2020-12-03 08:28:30
+543,Sean,Salinas,Logistics,Courier,532,16,15850,0.0,2021-06-29 12:20:29
+544,Michele,Sherman,Logistics,Courier,532,16,25226,0.0,2020-11-27 19:24:24
+545,Melissa,Daniels,Logistics,Courier,532,16,22288,0.0,2022-06-09 06:53:32
+546,Vanessa,Cooper,Logistics,Courier,532,16,27962,0.0,2022-11-29 22:28:37
+547,Jerry,Riley,Logistics,Courier,532,16,20425,0.0,2019-10-18 21:44:48
+548,Robert,Richmond,Management,Director,0,17,93676,0.0,2020-11-08 17:30:18
+549,Daniel,Warren,Management,Manager,548,17,46617,0.0,2020-06-29 10:09:16
+550,Steven,Reyes,Sales,Senior Salesperson,549,17,38621,0.07,2020-02-12 05:10:47
+551,Denise,Smith,Sales,Salesperson,550,17,22949,0.05,2022-03-19 00:54:37
+552,Jacob,Johnson,Sales,Salesperson,550,17,25535,0.05,2019-09-14 02:33:33
+553,Jennifer,Williams,Sales,Salesperson,550,17,29812,0.05,2020-06-21 01:16:55
+554,Richard,Kelley,Sales,Salesperson,550,17,33005,0.05,2020-10-26 10:58:01
+555,Michael,Fernandez,Sales,Salesperson,550,17,30128,0.05,2019-01-15 00:14:24
+556,Joann,Campbell,Sales,Salesperson,550,17,28637,0.05,2021-12-28 19:06:21
+557,Susan,Wiggins,Sales,Salesperson,550,17,23729,0.05,2019-06-06 05:02:14
+558,Joshua,Pugh,Sales,Salesperson,550,17,24560,0.05,2021-10-15 21:14:18
+559,Sandra,Dalton,Sales,Salesperson,550,17,30159,0.05,2019-06-24 23:05:47
+560,Shannon,Hamilton,Sales,Salesperson,550,17,33251,0.05,2021-10-14 22:53:44
+561,Kevin,Powers,Sales,Salesperson,550,17,28505,0.05,2019-11-20 15:26:23
+562,Michael,Hill,Sales,Salesperson,550,17,30299,0.05,2022-09-10 07:19:03
+563,Isabel,Love,Sales,Salesperson,550,17,27244,0.05,2024-09-01 19:46:02
+564,James,King,Sales,Salesperson,550,17,24148,0.05,2019-11-23 01:43:23
+565,Andres,Perez,Sales,Salesperson,550,17,34577,0.05,2021-06-25 07:29:09
+566,Anna,Clark,Support,Senior Support Agent,549,17,33251,0.0,2019-03-26 17:57:11
+567,Patricia,Solis,Support,Support Agent,566,17,18931,0.0,2022-12-07 02:01:47
+568,Steven,Moore,Support,Support Agent,566,17,15093,0.0,2019-04-27 18:53:47
+569,Kayla,Bell,Support,Support Agent,566,17,23687,0.0,2023-01-30 22:06:34
+570,Randall,Lawrence,Support,Support Agent,566,17,17541,0.0,2021-08-12 12:46:12
+571,Brandon,Smith,Support,Support Agent,566,17,21999,0.0,2020-12-02 06:44:56
+572,Christine,Knight,Support,Support Agent,566,17,15213,0.0,2020-09-22 18:36:31
+573,Angela,Mccall,Support,Support Agent,566,17,17979,0.0,2022-07-30 14:57:51
+574,Brenda,Brooks,Support,Support Agent,566,17,20408,0.0,2023-03-18 21:20:27
+575,Cheryl,Mitchell,Support,Support Agent,566,17,17406,0.0,2020-12-02 22:52:16
+576,Nathan,Lane,Logistics,Chief of Logistics,549,17,28030,0.0,2024-12-02 20:54:20
+577,Angel,Robertson,Logistics,Warehouse Worker,576,17,19274,0.0,2023-12-31 17:03:59
+578,Debra,Wilson,Logistics,Warehouse Worker,576,17,19202,0.0,2024-08-28 03:34:50
+579,Anita,Herman,Logistics,Warehouse Worker,576,17,17610,0.0,2021-07-10 05:13:55
+580,Christopher,Tucker,Logistics,Courier,576,17,16447,0.0,2023-11-02 15:12:29
+581,Justin,Robinson,Logistics,Courier,576,17,27512,0.0,2023-05-22 05:21:19
+582,Anita,Austin,Logistics,Courier,576,17,22136,0.0,2021-12-26 00:56:02
+583,David,Mendez,Logistics,Courier,576,17,18553,0.0,2020-04-07 23:47:20
+584,George,Travis,Logistics,Warehouse Worker,576,17,22023,0.0,2022-07-18 21:44:01
+585,Melissa,Baker,Management,Director,0,18,85991,0.0,2022-11-30 12:16:47
+586,Monica,Hernandez,Management,Manager,585,18,52863,0.0,2024-05-16 21:41:31
+587,James,Ward,Sales,Senior Salesperson,586,18,30896,0.07,2021-01-04 07:31:34
+588,Terry,Brown,Sales,Salesperson,587,18,31224,0.05,2020-03-24 15:49:12
+589,Amy,Buchanan,Sales,Salesperson,587,18,33589,0.05,2020-05-17 06:22:30
+590,Stephanie,Brown,Sales,Salesperson,587,18,20749,0.05,2020-11-12 12:19:23
+591,Michael,Black,Sales,Salesperson,587,18,33799,0.05,2022-12-01 05:17:52
+592,John,Brown,Sales,Salesperson,587,18,32707,0.05,2022-01-07 06:58:13
+593,Allison,Becker,Sales,Salesperson,587,18,32452,0.05,2021-02-10 08:20:30
+594,Heidi,Saunders,Sales,Salesperson,587,18,23449,0.05,2023-03-30 20:30:07
+595,Peggy,Poole,Sales,Salesperson,587,18,31648,0.05,2021-03-14 08:12:24
+596,Joseph,Davis,Sales,Salesperson,587,18,23881,0.05,2019-09-04 09:49:16
+597,Denise,Petersen,Sales,Salesperson,587,18,26653,0.05,2022-11-27 01:01:43
+598,Amanda,Nixon,Sales,Salesperson,587,18,33527,0.05,2019-08-21 21:31:35
+599,Shannon,Jackson,Support,Senior Support Agent,586,18,34835,0.0,2024-10-15 23:36:12
+600,Courtney,Pitts,Support,Support Agent,599,18,22411,0.0,2021-03-28 23:35:17
+601,Mary,Campbell,Support,Support Agent,599,18,20372,0.0,2022-06-18 12:14:15
+602,David,Soto,Support,Support Agent,599,18,19077,0.0,2024-08-19 20:00:23
+603,Tracy,Brown,Support,Support Agent,599,18,24206,0.0,2019-11-07 20:39:39
+604,Tina,Alvarez,Support,Support Agent,599,18,21496,0.0,2024-06-19 19:39:36
+605,Michelle,Jacobson,Support,Support Agent,599,18,17770,0.0,2020-11-16 01:04:37
+606,Carlos,Archer,Support,Support Agent,599,18,19295,0.0,2023-06-29 22:11:03
+607,Ronald,Cole,Logistics,Chief of Logistics,586,18,32964,0.0,2020-02-23 19:14:07
+608,Amanda,Gutierrez,Logistics,Warehouse Worker,607,18,19816,0.0,2020-10-20 21:05:00
+609,Xavier,Santos,Logistics,Warehouse Worker,607,18,18261,0.0,2019-11-07 22:33:22
+610,Jonathan,Hamilton,Logistics,Warehouse Worker,607,18,24518,0.0,2023-06-04 16:03:29
+611,Robert,Roberts,Logistics,Warehouse Worker,607,18,20352,0.0,2021-07-08 19:28:16
+612,Bradley,Thomas,Logistics,Courier,607,18,15095,0.0,2019-12-03 23:48:58
+613,Jesse,Rodriguez,Logistics,Courier,607,18,23471,0.0,2021-06-27 22:28:25
+614,Christina,Walker,Logistics,Warehouse Worker,607,18,17916,0.0,2019-12-21 03:55:37
+615,Ryan,Todd,Logistics,Courier,607,18,21047,0.0,2022-08-01 18:53:31
+616,Peter,Bradley,Logistics,Warehouse Worker,607,18,12385,0.0,2024-11-13 02:02:48
+617,Angela,Price,Logistics,Warehouse Worker,607,18,17659,0.0,2019-12-14 13:30:40
+618,Joshua,Clark,Logistics,Warehouse Worker,607,18,24474,0.0,2024-06-03 19:22:54
+619,Kimberly,Mathis,Logistics,Warehouse Worker,607,18,23276,0.0,2023-06-04 05:22:15
+620,Tami,Lambert,Logistics,Warehouse Worker,607,18,16649,0.0,2019-03-17 15:57:59
+621,William,Walker,Logistics,Warehouse Worker,607,18,15746,0.0,2020-02-09 14:29:17
+622,Tina,King,Logistics,Courier,607,18,23173,0.0,2019-12-23 10:10:19
+623,Nathan,Rodriguez,Management,Director,0,19,83819,0.0,2019-11-30 12:56:24
+624,Matthew,Myers,Management,Manager,623,19,50666,0.0,2022-06-10 03:32:20
+625,Michael,Alexander,Sales,Senior Salesperson,624,19,39241,0.07,2024-09-13 22:45:58
+626,Douglas,Miller,Sales,Salesperson,625,19,30560,0.05,2020-06-28 11:02:29
+627,Craig,Page,Sales,Salesperson,625,19,33389,0.05,2020-05-29 18:25:09
+628,Dylan,Hays,Sales,Salesperson,625,19,23945,0.05,2020-12-02 01:06:08
+629,Robert,Wilkerson,Sales,Salesperson,625,19,26462,0.05,2023-05-12 00:41:26
+630,Reginald,Park,Sales,Salesperson,625,19,20123,0.05,2024-03-06 05:54:03
+631,Stephanie,Johnson,Sales,Salesperson,625,19,30399,0.05,2023-11-19 04:09:16
+632,Sandra,Scott,Sales,Salesperson,625,19,23872,0.05,2021-01-16 16:01:20
+633,Edward,Velazquez,Sales,Salesperson,625,19,24654,0.05,2024-12-06 01:12:51
+634,Lisa,Montgomery,Sales,Salesperson,625,19,30578,0.05,2023-08-31 18:16:43
+635,Ricky,Cunningham,Sales,Salesperson,625,19,21868,0.05,2024-12-03 09:08:22
+636,Austin,Munoz,Sales,Salesperson,625,19,20043,0.05,2021-09-11 13:46:26
+637,Cynthia,Rodriguez,Sales,Salesperson,625,19,25573,0.05,2021-10-09 02:19:20
+638,Thomas,Taylor,Sales,Salesperson,625,19,32062,0.05,2019-07-06 08:38:30
+639,Patricia,Michael,Support,Senior Support Agent,624,19,31714,0.0,2023-11-16 20:02:19
+640,Katherine,Hughes,Support,Support Agent,639,19,24915,0.0,2023-08-29 01:26:11
+641,Patrick,Brown,Support,Support Agent,639,19,19074,0.0,2021-01-29 01:26:14
+642,Michael,Lewis,Support,Support Agent,639,19,22185,0.0,2020-02-12 02:48:17
+643,Collin,Murray,Support,Support Agent,639,19,23204,0.0,2022-09-20 06:51:24
+644,Christopher,Garcia,Support,Support Agent,639,19,16250,0.0,2020-03-30 02:34:29
+645,Aaron,Jones,Support,Support Agent,639,19,15442,0.0,2021-01-02 11:12:39
+646,Jeanette,Rivers,Support,Support Agent,639,19,22569,0.0,2021-04-28 14:57:39
+647,Tammy,Heath,Support,Support Agent,639,19,18397,0.0,2021-07-13 13:33:02
+648,Courtney,Sutton,Support,Support Agent,639,19,21288,0.0,2024-01-13 21:14:25
+649,Miranda,Patterson,Logistics,Chief of Logistics,624,19,44373,0.0,2019-01-20 12:15:07
+650,Bryan,Gutierrez,Logistics,Courier,649,19,27104,0.0,2019-01-14 01:22:08
+651,Becky,Reynolds,Logistics,Courier,649,19,26658,0.0,2022-12-20 19:11:40
+652,Diana,Allison,Logistics,Courier,649,19,29144,0.0,2024-12-02 04:33:50
+653,Debra,Johnson,Logistics,Warehouse Worker,649,19,14946,0.0,2022-08-04 04:21:00
+654,Matthew,Hill,Logistics,Courier,649,19,27098,0.0,2019-06-28 04:26:57
+655,Sarah,Carr,Logistics,Warehouse Worker,649,19,20202,0.0,2020-06-01 03:24:09
+656,Matthew,King,Logistics,Warehouse Worker,649,19,17706,0.0,2024-07-04 00:12:58
+657,Linda,Scott,Logistics,Warehouse Worker,649,19,21041,0.0,2022-11-11 21:12:41
+658,Paul,Young,Logistics,Courier,649,19,24854,0.0,2021-01-15 11:22:30
+659,Katrina,Peterson,Management,Director,0,20,83001,0.0,2021-01-23 23:42:23
+660,Stephanie,Brock,Management,Manager,659,20,49088,0.0,2021-07-13 06:49:23
+661,Sabrina,Wright,Sales,Senior Salesperson,660,20,37243,0.07,2024-10-16 19:56:24
+662,Ashley,Hill,Sales,Salesperson,661,20,24544,0.05,2023-07-27 09:19:34
+663,Robert,Wells,Sales,Salesperson,661,20,22120,0.05,2022-11-23 06:57:23
+664,Melvin,Cruz,Sales,Salesperson,661,20,27890,0.05,2022-11-17 02:43:36
+665,Robin,Evans,Sales,Salesperson,661,20,34947,0.05,2022-03-24 18:33:13
+666,Christina,Lewis,Sales,Salesperson,661,20,23024,0.05,2019-07-14 11:12:17
+667,Pamela,Johnson,Sales,Salesperson,661,20,21379,0.05,2024-05-06 16:25:30
+668,James,White,Sales,Salesperson,661,20,20690,0.05,2019-05-11 12:52:28
+669,Jacqueline,Tyler,Sales,Salesperson,661,20,32414,0.05,2024-10-31 11:04:33
+670,Sheila,Ortiz,Sales,Salesperson,661,20,23868,0.05,2020-08-27 00:35:15
+671,Eric,Jensen,Sales,Salesperson,661,20,27710,0.05,2021-01-21 07:43:07
+672,Kristina,Taylor,Sales,Salesperson,661,20,27428,0.05,2021-01-20 21:38:02
+673,David,Weiss,Sales,Salesperson,661,20,24704,0.05,2024-06-20 16:02:58
+674,Larry,Garrett,Sales,Salesperson,661,20,32918,0.05,2022-01-20 14:41:32
+675,Shelia,Shepard,Support,Senior Support Agent,660,20,30765,0.0,2021-02-20 05:21:40
+676,Brooke,Ward,Support,Support Agent,675,20,21865,0.0,2021-12-25 04:18:13
+677,Amanda,Bautista,Support,Support Agent,675,20,22518,0.0,2020-04-24 21:01:23
+678,James,Greene,Support,Support Agent,675,20,17107,0.0,2022-12-14 14:20:01
+679,Ricardo,Raymond,Support,Support Agent,675,20,18248,0.0,2019-09-18 12:51:15
+680,David,Kirk,Support,Support Agent,675,20,22248,0.0,2020-02-13 02:54:21
+681,Robin,Smith,Support,Support Agent,675,20,17361,0.0,2019-09-24 20:34:52
+682,Brandi,Woodard,Support,Support Agent,675,20,20702,0.0,2020-03-14 18:39:09
+683,Daniel,Franklin,Support,Support Agent,675,20,17604,0.0,2021-09-09 11:53:25
+684,John,Ponce,Support,Support Agent,675,20,21504,0.0,2022-06-02 07:17:23
+685,Jennifer,Hernandez,Support,Support Agent,675,20,16133,0.0,2024-04-12 11:02:42
+686,Brian,Rodriguez,Support,Support Agent,675,20,23921,0.0,2021-12-31 17:50:07
+687,Connor,Craig,Logistics,Chief of Logistics,660,20,44025,0.0,2019-04-06 07:44:12
+688,Raymond,Rodgers,Logistics,Courier,687,20,15867,0.0,2024-04-18 10:09:14
+689,Diana,Hughes,Logistics,Warehouse Worker,687,20,15753,0.0,2023-09-11 15:02:32
+690,Joyce,Rodriguez,Logistics,Courier,687,20,15791,0.0,2019-06-19 23:33:38
+691,Brendan,Walker,Logistics,Courier,687,20,23193,0.0,2020-05-15 04:23:59
+692,Stacy,Rodriguez,Logistics,Courier,687,20,25507,0.0,2019-06-27 09:27:21
+693,Brooke,Sharp,Logistics,Warehouse Worker,687,20,20191,0.0,2022-01-18 00:14:53
+694,Paul,Ferguson,Logistics,Courier,687,20,27652,0.0,2021-09-14 01:45:30
+695,Mary,Peterson,Logistics,Courier,687,20,28294,0.0,2020-05-08 14:20:01
+696,Jessica,Davis,Logistics,Courier,687,20,18952,0.0,2023-11-22 14:01:53
+697,Kevin,Powell,Logistics,Courier,687,20,20512,0.0,2021-11-10 15:53:24
+698,Jill,Brown,Logistics,Courier,687,20,27839,0.0,2023-01-10 05:23:03
+699,Bethany,Cruz,Management,Director,0,21,68589,0.0,2024-04-02 22:04:50
+700,Karen,Gibson,Management,Manager,699,21,49621,0.0,2019-01-29 08:43:42
+701,John,Reynolds,Sales,Senior Salesperson,700,21,31512,0.07,2022-11-07 20:17:54
+702,Chad,Tucker,Sales,Salesperson,701,21,28476,0.05,2021-08-21 02:16:31
+703,Russell,Porter,Sales,Salesperson,701,21,25633,0.05,2023-07-28 20:25:56
+704,Michelle,Suarez,Sales,Salesperson,701,21,21646,0.05,2020-04-27 06:16:32
+705,James,Blackburn,Sales,Salesperson,701,21,24461,0.05,2020-12-01 23:36:10
+706,Caroline,Parker,Sales,Salesperson,701,21,32200,0.05,2023-07-22 12:51:27
+707,Holly,Stewart,Support,Senior Support Agent,700,21,34670,0.0,2024-04-18 22:17:31
+708,Janet,Smith,Support,Support Agent,707,21,20816,0.0,2023-12-15 09:59:45
+709,Samuel,Jefferson,Support,Support Agent,707,21,18379,0.0,2021-03-28 04:00:14
+710,Scott,Harris,Support,Support Agent,707,21,17859,0.0,2021-12-08 22:15:08
+711,Dean,Bradley,Support,Support Agent,707,21,15731,0.0,2020-02-18 23:32:08
+712,Melinda,Allen,Support,Support Agent,707,21,23972,0.0,2019-11-06 05:16:03
+713,Shawn,Rodriguez,Support,Support Agent,707,21,15343,0.0,2021-03-20 03:38:14
+714,Jonathan,Johnson,Logistics,Chief of Logistics,700,21,36749,0.0,2024-11-11 10:03:03
+715,Ashley,Jenkins,Logistics,Warehouse Worker,714,21,18058,0.0,2021-01-07 16:33:47
+716,Robert,Wood,Logistics,Warehouse Worker,714,21,12467,0.0,2020-09-17 04:07:57
+717,Robert,Howard,Logistics,Warehouse Worker,714,21,21908,0.0,2019-02-05 11:22:52
+718,Tina,Cooper,Logistics,Warehouse Worker,714,21,16888,0.0,2021-06-28 06:29:22
+719,Adam,Craig,Logistics,Courier,714,21,28645,0.0,2023-11-23 10:24:34
+720,Patty,Kim,Logistics,Courier,714,21,16091,0.0,2023-06-14 12:23:34
+721,Carla,Galvan,Logistics,Courier,714,21,24568,0.0,2020-08-12 21:29:49
+722,Michael,Flores,Logistics,Warehouse Worker,714,21,14343,0.0,2024-01-29 22:35:47
+723,Sheryl,Dillon,Logistics,Courier,714,21,16331,0.0,2021-11-18 21:38:17
+724,James,Murphy,Logistics,Courier,714,21,18250,0.0,2022-05-16 02:24:30
+725,Michael,Hoover,Logistics,Courier,714,21,19935,0.0,2022-02-11 05:14:27
+726,Jodi,Smith,Logistics,Courier,714,21,24627,0.0,2024-05-15 13:08:14
+727,Paul,Ingram,Logistics,Courier,714,21,29591,0.0,2023-10-22 01:59:11
+728,Kim,Harris,Logistics,Courier,714,21,18080,0.0,2021-11-15 00:45:42
+729,Debbie,Smith,Logistics,Courier,714,21,21651,0.0,2020-11-16 14:22:06
+730,Emily,Woodward,Management,Director,0,22,96830,0.0,2021-10-23 03:31:33
+731,Edward,Oconnor,Management,Manager,730,22,51041,0.0,2020-01-20 00:05:38
+732,Craig,Bryant,Sales,Senior Salesperson,731,22,30598,0.07,2023-06-07 13:24:50
+733,Emily,Olson,Sales,Salesperson,732,22,20466,0.05,2024-09-28 23:02:16
+734,Robert,Osborne,Sales,Salesperson,732,22,29161,0.05,2024-08-02 07:23:41
+735,Gregory,Cole,Sales,Salesperson,732,22,31508,0.05,2019-11-14 07:41:42
+736,Seth,Holden,Sales,Salesperson,732,22,23559,0.05,2021-02-22 09:58:07
+737,Patrick,Diaz,Sales,Salesperson,732,22,34113,0.05,2019-06-08 18:04:44
+738,Nicholas,Scott,Sales,Salesperson,732,22,27514,0.05,2019-04-13 05:45:08
+739,Christopher,Miller,Sales,Salesperson,732,22,29124,0.05,2021-08-08 21:30:24
+740,Tanya,Owen,Sales,Salesperson,732,22,26170,0.05,2021-03-30 06:48:24
+741,Joseph,Keller,Support,Senior Support Agent,731,22,23120,0.0,2023-09-09 10:13:57
+742,Grant,Kennedy,Support,Support Agent,741,22,15780,0.0,2021-02-16 04:09:05
+743,Jason,Myers,Support,Support Agent,741,22,21224,0.0,2022-12-07 14:34:00
+744,Danny,Harris,Support,Support Agent,741,22,16020,0.0,2019-05-22 23:25:21
+745,Cathy,Miller,Support,Support Agent,741,22,20692,0.0,2023-03-27 16:11:39
+746,Deanna,Petersen,Support,Support Agent,741,22,17077,0.0,2024-09-06 19:46:39
+747,Nathan,Clark,Support,Support Agent,741,22,15067,0.0,2019-02-26 17:22:14
+748,Crystal,Rowland,Support,Support Agent,741,22,24687,0.0,2022-11-14 08:02:24
+749,Michelle,Lewis,Support,Support Agent,741,22,19562,0.0,2021-08-05 18:17:50
+750,Patrick,Waters,Support,Support Agent,741,22,23311,0.0,2020-01-21 10:59:15
+751,Frank,Harrell,Support,Support Agent,741,22,21796,0.0,2019-06-20 18:18:11
+752,Diana,Simmons,Logistics,Chief of Logistics,731,22,26315,0.0,2021-12-07 11:59:56
+753,Robin,Boyer,Logistics,Warehouse Worker,752,22,16779,0.0,2020-07-01 12:44:21
+754,Ryan,Daniels,Logistics,Courier,752,22,26016,0.0,2021-10-12 14:02:14
+755,Richard,Gallagher,Logistics,Courier,752,22,16509,0.0,2023-11-17 07:54:01
+756,Timothy,Pruitt,Logistics,Warehouse Worker,752,22,21456,0.0,2019-05-08 23:55:49
+757,Erika,Perez,Logistics,Courier,752,22,15714,0.0,2022-03-09 09:26:29
+758,Nathaniel,Fields,Management,Director,0,23,79774,0.0,2020-01-03 03:22:51
+759,Angela,Tucker,Management,Manager,758,23,54388,0.0,2020-10-12 12:10:02
+760,Luis,Chen,Sales,Senior Salesperson,759,23,34468,0.07,2022-04-28 15:20:00
+761,Brandon,Glenn,Sales,Salesperson,760,23,30538,0.05,2019-02-17 06:15:20
+762,Theresa,Brown,Sales,Salesperson,760,23,26849,0.05,2024-10-24 10:51:28
+763,Joshua,Huang,Sales,Salesperson,760,23,27385,0.05,2023-02-02 14:49:32
+764,Erica,Wagner,Sales,Salesperson,760,23,22770,0.05,2021-09-14 02:53:48
+765,Brittany,Gonzalez,Sales,Salesperson,760,23,28040,0.05,2019-02-28 23:46:43
+766,Juan,Palmer,Sales,Salesperson,760,23,20212,0.05,2019-09-05 04:49:05
+767,Christopher,Goodwin,Support,Senior Support Agent,759,23,24083,0.0,2020-12-14 02:18:54
+768,Charles,Price,Support,Support Agent,767,23,16614,0.0,2019-01-09 22:32:14
+769,Tara,Miller,Support,Support Agent,767,23,15213,0.0,2023-12-12 02:48:28
+770,Kimberly,Ramos,Support,Support Agent,767,23,18570,0.0,2020-03-26 18:05:44
+771,Andrew,Kramer,Support,Support Agent,767,23,17451,0.0,2024-08-05 14:10:36
+772,Hannah,Brown,Support,Support Agent,767,23,17008,0.0,2019-06-08 22:38:42
+773,Christopher,Dorsey,Support,Support Agent,767,23,19460,0.0,2022-07-22 07:46:28
+774,Mark,Lewis,Support,Support Agent,767,23,22203,0.0,2024-10-16 03:18:42
+775,Morgan,Williams,Support,Support Agent,767,23,21464,0.0,2021-12-01 10:41:14
+776,Derek,Vance,Support,Support Agent,767,23,16954,0.0,2019-07-24 15:28:06
+777,Kimberly,Robinson,Support,Support Agent,767,23,19902,0.0,2021-02-09 22:27:51
+778,Daniel,Cowan,Support,Support Agent,767,23,16866,0.0,2023-04-02 23:26:56
+779,Janet,Rodriguez,Support,Support Agent,767,23,21383,0.0,2023-09-19 14:31:38
+780,Jay,Nelson,Support,Support Agent,767,23,22811,0.0,2020-12-26 12:12:21
+781,Charlene,Hernandez,Logistics,Chief of Logistics,759,23,41880,0.0,2022-11-21 21:30:02
+782,Joshua,Jones,Logistics,Warehouse Worker,781,23,17526,0.0,2021-12-21 19:38:25
+783,Jessica,Williams,Logistics,Warehouse Worker,781,23,13621,0.0,2022-10-10 20:36:10
+784,Brenda,Jordan,Logistics,Courier,781,23,18565,0.0,2020-10-31 06:08:31
+785,Vanessa,Harris,Logistics,Courier,781,23,25793,0.0,2022-02-18 20:56:39
+786,Ann,Cox,Logistics,Warehouse Worker,781,23,13963,0.0,2023-02-13 21:31:16
+787,Madison,Leon,Logistics,Courier,781,23,25753,0.0,2021-07-07 08:20:19
+788,Tracey,Arroyo,Management,Director,0,24,92627,0.0,2024-07-09 08:41:56
+789,Michael,Cooper,Management,Manager,788,24,53683,0.0,2023-04-17 12:25:41
+790,Evan,Smith,Sales,Senior Salesperson,789,24,32963,0.07,2022-09-08 16:05:10
+791,Ryan,Bishop,Sales,Salesperson,790,24,31043,0.05,2023-04-05 01:08:40
+792,Ashley,Blackburn,Sales,Salesperson,790,24,33190,0.05,2021-07-30 23:21:57
+793,Gary,George,Sales,Salesperson,790,24,29836,0.05,2023-07-27 16:27:41
+794,Devin,Luna,Sales,Salesperson,790,24,21409,0.05,2023-11-23 01:15:42
+795,Kenneth,Perkins,Sales,Salesperson,790,24,29572,0.05,2024-04-23 20:25:13
+796,Michael,Lewis,Sales,Salesperson,790,24,32983,0.05,2024-07-18 13:19:38
+797,Christopher,Miller,Sales,Salesperson,790,24,33688,0.05,2019-02-25 00:21:36
+798,Courtney,Brewer,Sales,Salesperson,790,24,23729,0.05,2023-11-23 17:23:19
+799,Allen,Martinez,Sales,Salesperson,790,24,32411,0.05,2024-05-13 04:54:13
+800,Lisa,Solis,Support,Senior Support Agent,789,24,33635,0.0,2021-05-12 02:01:00
+801,Carolyn,Cole,Support,Support Agent,800,24,23730,0.0,2022-05-09 08:18:01
+802,Eric,Carpenter,Support,Support Agent,800,24,20739,0.0,2024-02-10 20:42:00
+803,Caitlyn,Galloway,Support,Support Agent,800,24,19717,0.0,2023-07-12 01:15:34
+804,Brett,Soto,Support,Support Agent,800,24,23878,0.0,2021-07-07 10:40:19
+805,Brad,Thornton,Support,Support Agent,800,24,21161,0.0,2022-11-23 14:43:46
+806,Karen,Stafford,Support,Support Agent,800,24,24887,0.0,2022-11-21 19:19:10
+807,Melissa,Brown,Logistics,Chief of Logistics,789,24,26103,0.0,2021-05-26 19:16:47
+808,Jacob,Martin,Logistics,Warehouse Worker,807,24,12072,0.0,2024-10-19 06:28:02
+809,Renee,Brown,Logistics,Warehouse Worker,807,24,20998,0.0,2023-10-09 19:07:38
+810,Richard,Porter,Logistics,Courier,807,24,29369,0.0,2022-07-08 08:07:24
+811,Danielle,Murphy,Logistics,Warehouse Worker,807,24,18543,0.0,2019-12-30 22:53:46
+812,Stephanie,Murphy,Logistics,Warehouse Worker,807,24,15142,0.0,2020-04-10 19:28:19
+813,Matthew,Jackson,Management,Director,0,25,81042,0.0,2021-11-07 04:47:40
+814,Raymond,Griffin,Management,Manager,813,25,51445,0.0,2019-03-07 01:18:54
+815,Elizabeth,Gomez,Sales,Senior Salesperson,814,25,38391,0.07,2020-05-20 20:22:00
+816,Brandi,Pena,Sales,Salesperson,815,25,21830,0.05,2021-12-02 22:47:53
+817,Christopher,Cervantes,Sales,Salesperson,815,25,31712,0.05,2024-10-20 22:47:20
+818,Michael,Johnson,Sales,Salesperson,815,25,27168,0.05,2024-12-05 20:46:36
+819,Phyllis,Gonzales,Sales,Salesperson,815,25,23636,0.05,2023-05-21 05:53:18
+820,Amy,Bridges,Sales,Salesperson,815,25,23543,0.05,2019-03-19 11:50:40
+821,James,Preston,Sales,Salesperson,815,25,32687,0.05,2022-12-08 04:47:07
+822,William,Mckenzie,Sales,Salesperson,815,25,27017,0.05,2023-03-17 09:55:31
+823,Linda,Sanchez,Sales,Salesperson,815,25,25449,0.05,2021-01-02 06:30:43
+824,Miguel,Patterson,Sales,Salesperson,815,25,32729,0.05,2021-12-25 16:27:08
+825,Charles,Moran,Sales,Salesperson,815,25,24298,0.05,2020-01-29 03:01:58
+826,Sandra,Wright,Sales,Salesperson,815,25,30963,0.05,2019-05-06 19:43:02
+827,Tonya,Smith,Sales,Salesperson,815,25,25577,0.05,2023-02-11 16:03:06
+828,Christina,Neal,Support,Senior Support Agent,814,25,31048,0.0,2020-01-04 20:28:58
+829,Donna,Ali,Support,Support Agent,828,25,19620,0.0,2023-01-03 06:25:26
+830,Leslie,Watts,Support,Support Agent,828,25,18295,0.0,2019-06-09 03:51:52
+831,Meghan,Brown,Support,Support Agent,828,25,15478,0.0,2022-02-15 01:07:47
+832,Brenda,Good,Support,Support Agent,828,25,17348,0.0,2022-09-28 15:56:27
+833,Kevin,Payne,Support,Support Agent,828,25,23651,0.0,2020-11-27 17:01:46
+834,Michelle,Robertson,Support,Support Agent,828,25,18561,0.0,2022-07-11 07:40:17
+835,Meghan,Rangel,Support,Support Agent,828,25,20664,0.0,2022-06-09 12:05:42
+836,John,Lee,Logistics,Chief of Logistics,814,25,28071,0.0,2019-11-22 01:30:14
+837,Sydney,Bauer,Logistics,Courier,836,25,16305,0.0,2023-03-28 10:21:03
+838,Keith,Mays,Logistics,Warehouse Worker,836,25,20335,0.0,2023-11-03 15:10:42
+839,Jeffrey,Montgomery,Logistics,Courier,836,25,17502,0.0,2024-12-27 11:26:43
+840,Matthew,Schmitt,Logistics,Warehouse Worker,836,25,15897,0.0,2021-09-02 09:47:36
+841,Mark,Johnson,Logistics,Warehouse Worker,836,25,22791,0.0,2024-11-15 11:42:25
+842,Erin,Gaines,Logistics,Courier,836,25,28738,0.0,2022-05-19 02:46:48
+843,Maria,Lamb,Logistics,Warehouse Worker,836,25,19906,0.0,2019-02-07 16:39:40
+844,Wendy,Allen,Logistics,Warehouse Worker,836,25,22031,0.0,2021-01-27 09:12:41
+845,Katrina,Burns,Logistics,Warehouse Worker,836,25,23475,0.0,2022-08-07 05:55:23
+846,Annette,Collins,Management,Director,0,26,70585,0.0,2022-02-12 16:34:40
+847,Jason,Barry,Management,Manager,846,26,46070,0.0,2020-03-20 19:23:22
+848,David,Washington,Sales,Senior Salesperson,847,26,33642,0.07,2019-07-05 10:05:45
+849,Michael,Moore,Sales,Salesperson,848,26,21330,0.05,2020-03-08 09:11:58
+850,Daniel,Miller,Sales,Salesperson,848,26,31087,0.05,2024-05-25 20:50:28
+851,Bradley,Cunningham,Sales,Salesperson,848,26,23764,0.05,2020-09-24 14:21:42
+852,Kevin,Smith,Sales,Salesperson,848,26,29313,0.05,2019-07-15 16:21:09
+853,Brett,Hart,Sales,Salesperson,848,26,26640,0.05,2020-12-28 09:34:14
+854,Jennifer,Crosby,Sales,Salesperson,848,26,29159,0.05,2023-07-04 15:31:57
+855,Leroy,Robinson,Sales,Salesperson,848,26,25238,0.05,2021-05-08 14:26:15
+856,Alexandra,Simpson,Sales,Salesperson,848,26,33045,0.05,2019-10-15 03:32:15
+857,Kenneth,Garcia,Support,Senior Support Agent,847,26,24450,0.0,2023-03-05 08:40:53
+858,Casey,Johnson,Support,Support Agent,857,26,18053,0.0,2022-05-28 17:27:17
+859,James,Rocha,Support,Support Agent,857,26,17655,0.0,2021-10-06 21:07:52
+860,Caitlin,Byrd,Support,Support Agent,857,26,22841,0.0,2023-08-05 06:24:54
+861,Kristy,Perkins,Support,Support Agent,857,26,16335,0.0,2019-05-17 01:39:05
+862,Cheyenne,Johnson,Support,Support Agent,857,26,19745,0.0,2024-09-12 08:57:36
+863,Gene,Smith,Support,Support Agent,857,26,18594,0.0,2024-01-21 10:04:09
+864,Dustin,Potts,Support,Support Agent,857,26,19484,0.0,2024-01-08 05:43:28
+865,Stacy,Taylor,Logistics,Chief of Logistics,847,26,44167,0.0,2022-05-05 15:13:21
+866,Benjamin,Garrison,Logistics,Warehouse Worker,865,26,24964,0.0,2022-02-21 06:13:27
+867,Danielle,Richards,Logistics,Warehouse Worker,865,26,15544,0.0,2021-02-15 01:06:56
+868,Grant,Brown,Logistics,Courier,865,26,24840,0.0,2019-05-25 05:48:11
+869,Karen,Hudson,Logistics,Warehouse Worker,865,26,19928,0.0,2023-10-21 09:20:40
+870,Reginald,Phillips,Logistics,Warehouse Worker,865,26,13450,0.0,2024-08-05 07:56:30
+871,Jennifer,Freeman,Logistics,Warehouse Worker,865,26,19741,0.0,2019-12-28 01:52:11
+872,Roberto,Greer,Logistics,Courier,865,26,16709,0.0,2020-10-17 00:32:27
+873,Rhonda,Walker,Logistics,Courier,865,26,28664,0.0,2022-11-24 17:55:19
+874,Melissa,Henry,Logistics,Warehouse Worker,865,26,20907,0.0,2020-01-12 16:19:16
+875,Teresa,Stein,Logistics,Warehouse Worker,865,26,22995,0.0,2019-05-04 23:01:45
+876,Ashley,Douglas,Management,Director,0,27,71333,0.0,2022-08-30 02:32:39
+877,Charles,Daniels,Management,Manager,876,27,52048,0.0,2023-09-25 20:02:32
+878,Laura,Gutierrez,Sales,Senior Salesperson,877,27,36076,0.07,2021-10-01 18:14:31
+879,Jason,Calderon,Sales,Salesperson,878,27,21273,0.05,2020-06-12 19:37:25
+880,Dustin,Aguilar,Sales,Salesperson,878,27,24086,0.05,2024-10-14 15:48:30
+881,Katherine,Johnson,Sales,Salesperson,878,27,27457,0.05,2021-02-27 19:49:20
+882,Anthony,Boyd,Sales,Salesperson,878,27,27033,0.05,2020-03-02 11:49:20
+883,Diane,Guzman,Sales,Salesperson,878,27,25831,0.05,2024-03-04 12:15:15
+884,Steven,Lopez,Support,Senior Support Agent,877,27,21262,0.0,2020-02-17 03:06:53
+885,Jason,Davis,Support,Support Agent,884,27,18318,0.0,2022-02-07 20:13:31
+886,Mark,Mitchell,Support,Support Agent,884,27,23778,0.0,2021-01-12 00:04:53
+887,Rachel,Thomas,Support,Support Agent,884,27,21654,0.0,2020-12-16 22:24:53
+888,Brent,Olson,Support,Support Agent,884,27,21971,0.0,2022-02-27 18:46:33
+889,Jennifer,Swanson,Support,Support Agent,884,27,22259,0.0,2021-01-21 23:47:04
+890,Edward,Jordan,Support,Support Agent,884,27,15276,0.0,2019-08-31 21:28:57
+891,Phillip,Garcia,Support,Support Agent,884,27,18223,0.0,2019-10-31 05:21:13
+892,Brian,Weaver,Support,Support Agent,884,27,23115,0.0,2020-12-20 10:27:59
+893,Wanda,Hernandez,Support,Support Agent,884,27,17824,0.0,2021-01-11 15:22:37
+894,David,Murphy,Support,Support Agent,884,27,22234,0.0,2021-05-16 22:36:56
+895,Michael,Mcgee,Support,Support Agent,884,27,24785,0.0,2022-07-19 10:20:52
+896,Cynthia,Johnson,Support,Support Agent,884,27,17414,0.0,2020-02-25 22:45:53
+897,Sheila,Thomas,Support,Support Agent,884,27,20347,0.0,2019-09-08 18:51:02
+898,Dylan,Miller,Support,Support Agent,884,27,23554,0.0,2019-01-27 23:19:03
+899,Laura,Richardson,Support,Support Agent,884,27,16861,0.0,2021-05-17 03:32:37
+900,Daniel,Nelson,Logistics,Chief of Logistics,877,27,39921,0.0,2022-04-16 07:04:30
+901,Emily,Joyce,Logistics,Courier,900,27,20010,0.0,2023-02-20 21:29:57
+902,Laura,Sosa,Logistics,Courier,900,27,27845,0.0,2021-02-02 21:37:38
+903,Robin,Pennington,Logistics,Courier,900,27,22722,0.0,2021-01-22 18:30:12
+904,Denise,Bond,Logistics,Courier,900,27,21267,0.0,2023-09-13 17:31:34
+905,Jessica,Duran,Logistics,Courier,900,27,25373,0.0,2020-04-17 12:58:20
+906,Karen,Chandler,Logistics,Warehouse Worker,900,27,22425,0.0,2021-07-12 07:28:57
+907,Wendy,Roy,Logistics,Warehouse Worker,900,27,23920,0.0,2024-11-07 07:25:38
+908,Thomas,Nguyen,Logistics,Courier,900,27,15163,0.0,2024-03-27 04:21:36
+909,Casey,Rogers,Logistics,Courier,900,27,25114,0.0,2024-12-22 23:49:51
+910,John,Wilson,Logistics,Courier,900,27,18667,0.0,2023-12-02 17:53:36
+911,Stephanie,Meyer,Management,Director,0,28,76461,0.0,2024-02-07 06:55:15
+912,Sarah,Collins,Management,Manager,911,28,51614,0.0,2021-01-14 18:24:38
+913,Heather,Ingram,Sales,Senior Salesperson,912,28,31439,0.07,2019-02-24 14:31:35
+914,Sheryl,Durham,Sales,Salesperson,913,28,30458,0.05,2024-06-14 04:36:45
+915,Kendra,Miller,Sales,Salesperson,913,28,22295,0.05,2024-10-11 21:25:52
+916,Christopher,Thompson,Sales,Salesperson,913,28,34533,0.05,2020-04-28 15:56:51
+917,James,Gonzalez,Sales,Salesperson,913,28,22696,0.05,2020-12-04 00:21:57
+918,Michael,Carpenter,Sales,Salesperson,913,28,30132,0.05,2023-02-25 10:40:58
+919,Sydney,Long,Sales,Salesperson,913,28,27933,0.05,2019-08-06 05:56:13
+920,Jeffrey,Lara,Sales,Salesperson,913,28,23003,0.05,2021-10-09 07:52:35
+921,Jeffery,Hanson,Sales,Salesperson,913,28,26364,0.05,2023-10-24 05:05:51
+922,Megan,Wolfe,Sales,Salesperson,913,28,29611,0.05,2020-06-02 15:04:15
+923,Paul,Flores,Sales,Salesperson,913,28,29627,0.05,2020-12-02 14:17:48
+924,Karen,Collins,Sales,Salesperson,913,28,32071,0.05,2019-05-01 11:00:01
+925,Caleb,Fernandez,Sales,Salesperson,913,28,30625,0.05,2024-10-28 22:32:09
+926,Katie,Young,Sales,Salesperson,913,28,28380,0.05,2021-03-08 08:43:25
+927,Cameron,Young,Sales,Salesperson,913,28,26013,0.05,2024-10-10 06:11:57
+928,Nicole,Lucas,Support,Senior Support Agent,912,28,26267,0.0,2020-02-08 15:15:47
+929,Christopher,Dickson,Support,Support Agent,928,28,24386,0.0,2020-08-15 23:37:02
+930,Todd,Farmer,Support,Support Agent,928,28,16931,0.0,2019-12-29 10:57:58
+931,Michael,Griffin,Support,Support Agent,928,28,19845,0.0,2024-06-22 22:06:43
+932,Tammy,Moyer,Support,Support Agent,928,28,20737,0.0,2023-02-01 10:00:34
+933,Brady,Reynolds,Support,Support Agent,928,28,21961,0.0,2020-07-19 21:56:21
+934,Jodi,Lee,Support,Support Agent,928,28,19482,0.0,2020-05-12 23:58:08
+935,Jane,Zimmerman,Support,Support Agent,928,28,23252,0.0,2023-12-27 19:21:33
+936,Tina,Graham,Support,Support Agent,928,28,19063,0.0,2024-11-24 22:18:26
+937,Tamara,Perry,Logistics,Chief of Logistics,912,28,31478,0.0,2019-03-14 17:26:55
+938,Kelly,Beasley,Logistics,Courier,937,28,26059,0.0,2023-04-21 00:32:51
+939,Adam,Wright,Logistics,Warehouse Worker,937,28,23282,0.0,2022-03-15 21:59:10
+940,Victoria,Barber,Logistics,Warehouse Worker,937,28,13795,0.0,2023-02-12 06:04:42
+941,Henry,Bradley,Logistics,Warehouse Worker,937,28,15625,0.0,2020-06-06 21:12:31
+942,Judy,Stevens,Logistics,Courier,937,28,19014,0.0,2020-11-17 07:20:57
+943,Jared,Washington,Logistics,Courier,937,28,16577,0.0,2023-04-26 13:03:58
+944,Jonathan,Jones,Logistics,Courier,937,28,27726,0.0,2024-11-08 04:28:59
+945,Heather,Henderson,Logistics,Courier,937,28,24056,0.0,2019-06-09 12:04:12
+946,Steven,Wood,Management,Director,0,29,76174,0.0,2024-08-15 02:12:39
+947,Amber,Dean,Management,Manager,946,29,53891,0.0,2020-10-10 00:15:06
+948,Heather,Hall,Sales,Senior Salesperson,947,29,30484,0.07,2020-02-24 21:39:10
+949,Jeffrey,Martinez,Sales,Salesperson,948,29,23993,0.05,2023-09-15 05:29:20
+950,Joshua,Williams,Sales,Salesperson,948,29,21143,0.05,2023-01-25 02:51:16
+951,Adam,Johnson,Sales,Salesperson,948,29,29716,0.05,2020-10-02 15:08:28
+952,Allison,Flores,Sales,Salesperson,948,29,24684,0.05,2023-01-31 11:18:00
+953,Dana,Kline,Sales,Salesperson,948,29,34131,0.05,2020-08-13 19:07:14
+954,Jimmy,Rodriguez,Sales,Salesperson,948,29,33643,0.05,2023-01-05 07:15:18
+955,Gary,Mejia,Sales,Salesperson,948,29,26448,0.05,2021-06-02 11:48:07
+956,Nancy,Miller,Sales,Salesperson,948,29,33771,0.05,2020-01-09 20:09:15
+957,Charles,Bell,Sales,Salesperson,948,29,28520,0.05,2020-07-03 20:46:47
+958,Leslie,Curtis,Sales,Salesperson,948,29,28080,0.05,2023-09-21 04:01:35
+959,Amanda,Jackson,Sales,Salesperson,948,29,27409,0.05,2024-03-09 21:07:31
+960,Francis,Johnson,Sales,Salesperson,948,29,34695,0.05,2024-01-21 13:54:34
+961,Patrick,Brown,Support,Senior Support Agent,947,29,29974,0.0,2021-04-23 07:32:34
+962,Brooke,Davis,Support,Support Agent,961,29,22110,0.0,2019-11-22 07:12:25
+963,Julia,Gonzalez,Support,Support Agent,961,29,18464,0.0,2024-02-06 03:53:50
+964,Jonathan,Dennis,Support,Support Agent,961,29,15091,0.0,2020-08-07 02:24:16
+965,Emily,Stewart,Support,Support Agent,961,29,21761,0.0,2020-01-24 12:12:34
+966,Ashley,Russell,Support,Support Agent,961,29,18433,0.0,2024-08-11 18:53:42
+967,Megan,Contreras,Support,Support Agent,961,29,19717,0.0,2024-03-18 11:49:11
+968,Charlotte,Parker,Support,Support Agent,961,29,21597,0.0,2019-02-06 07:50:30
+969,Alec,George,Support,Support Agent,961,29,23186,0.0,2023-03-14 04:15:52
+970,Kelli,Duran,Support,Support Agent,961,29,24752,0.0,2023-04-25 18:34:47
+971,John,Jones,Support,Support Agent,961,29,15641,0.0,2021-10-30 02:52:40
+972,William,Weaver,Logistics,Chief of Logistics,947,29,37253,0.0,2024-05-13 04:33:14
+973,Jill,Johnson,Logistics,Courier,972,29,23528,0.0,2020-05-07 02:02:59
+974,Jeremy,Travis,Logistics,Courier,972,29,28638,0.0,2019-02-05 14:43:27
+975,Sylvia,Cardenas,Logistics,Warehouse Worker,972,29,14874,0.0,2020-05-23 08:14:48
+976,Ryan,Rivera,Logistics,Courier,972,29,28864,0.0,2024-06-05 12:55:05
+977,Robert,Calderon,Logistics,Warehouse Worker,972,29,21175,0.0,2022-01-01 22:20:55
+978,Michael,Rose,Logistics,Warehouse Worker,972,29,16572,0.0,2020-09-18 07:16:30
+979,Timothy,Bruce,Logistics,Warehouse Worker,972,29,23428,0.0,2023-09-17 13:40:59
+980,Jessica,Miller,Management,Director,0,30,83480,0.0,2020-03-05 17:09:28
+981,Lori,Frye,Management,Manager,980,30,46086,0.0,2019-12-21 16:03:28
+982,Leonard,Sexton,Sales,Senior Salesperson,981,30,36603,0.07,2020-03-22 07:23:21
+983,Kristin,Ewing,Sales,Salesperson,982,30,28344,0.05,2023-12-09 14:56:07
+984,Thomas,Manning,Sales,Salesperson,982,30,30461,0.05,2020-07-30 16:59:06
+985,Joshua,Rodriguez,Sales,Salesperson,982,30,31407,0.05,2021-02-15 02:49:41
+986,Mandy,Smith,Sales,Salesperson,982,30,24127,0.05,2021-08-02 01:20:07
+987,Vanessa,Pittman,Sales,Salesperson,982,30,28930,0.05,2020-09-26 04:50:55
+988,Melanie,Wilkerson,Sales,Salesperson,982,30,34401,0.05,2020-10-11 21:41:27
+989,Tyler,Robles,Sales,Salesperson,982,30,23719,0.05,2020-11-10 05:01:29
+990,Joshua,Haley,Sales,Salesperson,982,30,33894,0.05,2024-12-03 02:30:58
+991,Robert,Simmons,Sales,Salesperson,982,30,24904,0.05,2023-03-05 07:52:32
+992,Arthur,Morris,Sales,Salesperson,982,30,33853,0.05,2022-03-18 03:05:58
+993,Mary,Sanchez,Support,Senior Support Agent,981,30,33200,0.0,2019-05-16 02:07:58
+994,Julia,Robbins,Support,Support Agent,993,30,15076,0.0,2023-02-05 04:51:14
+995,Jason,Petersen,Support,Support Agent,993,30,23552,0.0,2021-10-01 09:13:11
+996,Christina,Patel,Support,Support Agent,993,30,15474,0.0,2021-11-12 12:46:49
+997,Jason,Johnson,Support,Support Agent,993,30,22742,0.0,2019-04-28 06:32:53
+998,Kelsey,Andersen,Support,Support Agent,993,30,16117,0.0,2022-05-19 04:20:22
+999,Jonathan,Nelson,Support,Support Agent,993,30,23683,0.0,2019-05-21 09:38:45
+1000,Cynthia,Harris,Support,Support Agent,993,30,16032,0.0,2019-11-04 06:44:53
+1001,Alyssa,Meadows,Support,Support Agent,993,30,20973,0.0,2020-04-11 15:59:21
+1002,Edwin,Boone,Logistics,Chief of Logistics,981,30,36432,0.0,2021-03-10 00:36:00
+1003,Patricia,Foster,Logistics,Courier,1002,30,19811,0.0,2021-11-23 14:39:28
+1004,Steven,Webster,Logistics,Courier,1002,30,25672,0.0,2023-09-30 10:41:04
+1005,Jonathan,Yates,Logistics,Courier,1002,30,27364,0.0,2024-02-26 20:48:33
+1006,Karen,Williams,Logistics,Courier,1002,30,26806,0.0,2021-09-19 08:29:48
+1007,Kelly,Brown,Logistics,Courier,1002,30,20695,0.0,2019-01-13 12:33:26
+1008,Christopher,Callahan,Logistics,Courier,1002,30,18165,0.0,2021-12-09 14:41:01
+1009,Emily,Hurst,Logistics,Courier,1002,30,25774,0.0,2023-11-02 10:55:59
+1010,Adam,Robles,Logistics,Warehouse Worker,1002,30,19694,0.0,2023-11-30 23:14:58
+1011,Kelli,Murphy,Logistics,Courier,1002,30,27495,0.0,2022-10-05 19:48:29
+1012,Darius,Schneider,Management,Director,0,31,80119,0.0,2023-11-25 05:29:58
+1013,Lisa,Berry,Management,Manager,1012,31,59252,0.0,2020-09-13 19:51:26
+1014,John,Miller,Sales,Senior Salesperson,1013,31,34454,0.07,2019-05-06 04:45:08
+1015,Melanie,Campbell,Sales,Salesperson,1014,31,23000,0.05,2023-09-21 19:47:44
+1016,James,Shaw,Sales,Salesperson,1014,31,25843,0.05,2023-07-11 08:47:28
+1017,Miranda,Lee,Sales,Salesperson,1014,31,21355,0.05,2023-06-16 09:06:59
+1018,Matthew,Thomas,Sales,Salesperson,1014,31,31855,0.05,2021-03-18 20:41:27
+1019,Alejandro,Nelson,Sales,Salesperson,1014,31,31174,0.05,2024-12-13 14:14:45
+1020,Logan,Bullock,Sales,Salesperson,1014,31,22150,0.05,2022-03-14 19:08:53
+1021,Devin,Jones,Support,Senior Support Agent,1013,31,27510,0.0,2019-10-24 01:05:38
+1022,Debra,Wallace,Support,Support Agent,1021,31,21152,0.0,2021-04-08 13:04:48
+1023,Donna,Johnson,Support,Support Agent,1021,31,21568,0.0,2020-05-22 18:15:54
+1024,Ricardo,Leonard,Support,Support Agent,1021,31,15713,0.0,2022-04-07 17:47:56
+1025,Tiffany,Williamson,Support,Support Agent,1021,31,16364,0.0,2021-08-19 00:51:54
+1026,Robert,Lee,Support,Support Agent,1021,31,16700,0.0,2024-09-08 14:02:17
+1027,Donald,Booth,Support,Support Agent,1021,31,21395,0.0,2019-06-19 00:32:36
+1028,Sandra,Collins,Support,Support Agent,1021,31,20832,0.0,2023-07-25 20:42:18
+1029,Devin,Paul,Support,Support Agent,1021,31,19833,0.0,2024-06-03 20:31:26
+1030,Joseph,Shaffer,Support,Support Agent,1021,31,21625,0.0,2022-02-08 05:49:54
+1031,Jessica,Lewis,Support,Support Agent,1021,31,18798,0.0,2020-08-09 05:26:13
+1032,David,Barker,Logistics,Chief of Logistics,1013,31,26055,0.0,2024-01-15 18:54:45
+1033,Gary,Jenkins,Logistics,Courier,1032,31,25047,0.0,2021-04-09 18:16:15
+1034,Crystal,Hudson,Logistics,Courier,1032,31,15900,0.0,2023-03-18 07:39:48
+1035,Michael,Ford,Logistics,Warehouse Worker,1032,31,18290,0.0,2021-02-12 11:53:48
+1036,Barbara,Lam,Logistics,Warehouse Worker,1032,31,16089,0.0,2022-04-09 12:05:21
+1037,Ryan,Dudley,Logistics,Courier,1032,31,28115,0.0,2023-08-19 03:08:02
+1038,Emily,Alvarado,Management,Director,0,32,71554,0.0,2019-01-27 21:38:36
+1039,Sharon,Gilbert,Management,Manager,1038,32,55404,0.0,2021-05-06 08:56:24
+1040,Kimberly,Barron,Sales,Senior Salesperson,1039,32,35992,0.07,2021-03-09 10:51:57
+1041,John,Chan,Sales,Salesperson,1040,32,31959,0.05,2024-03-02 05:44:29
+1042,Joshua,Franco,Sales,Salesperson,1040,32,30041,0.05,2023-11-06 18:12:08
+1043,Brandon,Kane,Sales,Salesperson,1040,32,24692,0.05,2021-03-24 23:07:13
+1044,Amy,Cox,Sales,Salesperson,1040,32,32055,0.05,2023-12-26 08:28:44
+1045,Kevin,Dixon,Sales,Salesperson,1040,32,32092,0.05,2020-04-04 16:52:20
+1046,Emily,Rice,Sales,Salesperson,1040,32,34663,0.05,2022-07-22 16:44:41
+1047,Ariel,Singleton,Support,Senior Support Agent,1039,32,30236,0.0,2023-12-19 16:24:23
+1048,Brian,Cooper,Support,Support Agent,1047,32,18514,0.0,2021-08-12 01:36:01
+1049,Michael,Hayes,Support,Support Agent,1047,32,19555,0.0,2021-11-21 09:14:33
+1050,William,Morales,Support,Support Agent,1047,32,23044,0.0,2019-06-03 20:00:03
+1051,Teresa,Diaz,Support,Support Agent,1047,32,24432,0.0,2019-09-29 23:52:36
+1052,Justin,Valencia,Support,Support Agent,1047,32,24374,0.0,2020-11-05 04:09:21
+1053,Michael,Moore,Support,Support Agent,1047,32,19295,0.0,2021-12-05 07:14:19
+1054,Keith,Moore,Support,Support Agent,1047,32,24679,0.0,2022-07-24 15:47:10
+1055,Tiffany,Tran,Support,Support Agent,1047,32,23461,0.0,2021-08-01 16:21:25
+1056,Sarah,Cruz,Support,Support Agent,1047,32,18935,0.0,2022-04-26 14:20:20
+1057,Shannon,Cortez,Support,Support Agent,1047,32,24665,0.0,2019-06-22 07:30:09
+1058,Martha,Weeks,Support,Support Agent,1047,32,18632,0.0,2020-01-04 23:19:06
+1059,Sharon,Massey,Support,Support Agent,1047,32,23713,0.0,2020-07-27 04:00:36
+1060,Andrew,Mitchell,Support,Support Agent,1047,32,20065,0.0,2024-07-05 14:35:41
+1061,Diane,Jones,Support,Support Agent,1047,32,21136,0.0,2021-01-08 15:53:08
+1062,Kyle,Stokes,Logistics,Chief of Logistics,1039,32,26124,0.0,2019-05-06 00:03:57
+1063,James,French,Logistics,Warehouse Worker,1062,32,19450,0.0,2019-08-12 08:15:35
+1064,James,Hubbard,Logistics,Warehouse Worker,1062,32,24090,0.0,2019-04-24 20:19:39
+1065,Suzanne,Harvey,Logistics,Courier,1062,32,19888,0.0,2022-01-22 23:23:12
+1066,Michael,Murphy,Logistics,Courier,1062,32,21413,0.0,2020-03-17 05:23:55
+1067,Ryan,Walters,Logistics,Courier,1062,32,18562,0.0,2020-01-14 10:05:07
+1068,Ashlee,Williams,Logistics,Warehouse Worker,1062,32,16804,0.0,2023-10-09 22:16:52
+1069,Sara,Wilson,Logistics,Courier,1062,32,18104,0.0,2024-06-28 09:51:31
+1070,Joseph,Figueroa,Logistics,Warehouse Worker,1062,32,19292,0.0,2020-02-20 09:29:33
+1071,Lindsey,Davis,Logistics,Warehouse Worker,1062,32,22658,0.0,2024-05-25 06:07:16
+1072,Amanda,Yoder,Logistics,Courier,1062,32,20795,0.0,2019-02-11 20:21:39
+1073,Heather,Hansen,Logistics,Warehouse Worker,1062,32,16586,0.0,2024-01-09 02:57:58
+1074,Erica,Jones,Logistics,Warehouse Worker,1062,32,14996,0.0,2021-06-01 05:11:11
+1075,Traci,Wheeler,Logistics,Warehouse Worker,1062,32,20642,0.0,2019-11-22 20:06:45
+1076,William,Melton,Logistics,Warehouse Worker,1062,32,17747,0.0,2021-09-06 11:41:10
+1077,Jason,Gould,Management,Director,0,33,92334,0.0,2024-06-09 02:24:40
+1078,Denise,Black,Management,Manager,1077,33,53431,0.0,2023-03-19 16:58:00
+1079,Cheryl,Newton,Sales,Senior Salesperson,1078,33,38375,0.07,2024-08-21 20:22:51
+1080,Susan,Rush,Sales,Salesperson,1079,33,28433,0.05,2023-03-24 22:36:18
+1081,Shawn,Cannon,Sales,Salesperson,1079,33,21457,0.05,2020-12-01 13:28:21
+1082,Elizabeth,Schaefer,Sales,Salesperson,1079,33,32503,0.05,2019-02-27 22:26:25
+1083,Stephen,Taylor,Sales,Salesperson,1079,33,30307,0.05,2022-05-16 16:29:47
+1084,Anthony,White,Sales,Salesperson,1079,33,29312,0.05,2022-10-29 04:54:25
+1085,Melissa,Tucker,Support,Senior Support Agent,1078,33,31094,0.0,2022-09-21 00:55:53
+1086,Brian,Dixon,Support,Support Agent,1085,33,21610,0.0,2021-03-30 04:27:06
+1087,Cory,Chan,Support,Support Agent,1085,33,21083,0.0,2024-04-22 09:15:34
+1088,Lisa,Watkins,Support,Support Agent,1085,33,19140,0.0,2023-01-22 17:34:06
+1089,Jason,Reyes,Support,Support Agent,1085,33,16690,0.0,2020-04-25 02:53:21
+1090,Olivia,Pope,Support,Support Agent,1085,33,19763,0.0,2021-11-29 21:25:00
+1091,Steven,Duncan,Support,Support Agent,1085,33,23586,0.0,2024-03-19 06:20:34
+1092,Charles,Mahoney,Support,Support Agent,1085,33,15952,0.0,2024-06-30 18:46:44
+1093,Joan,Jones,Logistics,Chief of Logistics,1078,33,40749,0.0,2021-09-03 21:05:38
+1094,Jonathan,Moses,Logistics,Courier,1093,33,26505,0.0,2020-03-19 14:07:11
+1095,Amber,Ellis,Logistics,Courier,1093,33,21059,0.0,2019-03-29 15:59:28
+1096,Logan,Liu,Logistics,Courier,1093,33,28179,0.0,2023-01-04 21:52:31
+1097,Katherine,Williams,Logistics,Warehouse Worker,1093,33,21098,0.0,2024-10-23 02:44:46
+1098,Wayne,Johnson,Logistics,Warehouse Worker,1093,33,23533,0.0,2024-09-27 02:10:54
+1099,Karen,Duncan,Logistics,Courier,1093,33,20506,0.0,2022-11-15 02:04:30
+1100,Ashley,Miller,Logistics,Courier,1093,33,23188,0.0,2021-07-28 13:35:38
+1101,Jacob,Carter,Logistics,Courier,1093,33,20895,0.0,2024-06-13 04:01:30
+1102,Sara,Wolfe,Logistics,Courier,1093,33,21842,0.0,2021-02-25 19:50:49
+1103,Kimberly,Long,Management,Director,0,34,75005,0.0,2019-05-04 02:44:12
+1104,Sarah,Moreno,Management,Manager,1103,34,59959,0.0,2019-01-20 19:08:54
+1105,Paul,Wright,Sales,Senior Salesperson,1104,34,31349,0.07,2020-08-05 13:02:59
+1106,Curtis,Howe,Sales,Salesperson,1105,34,33392,0.05,2019-09-16 01:33:50
+1107,Whitney,Tate,Sales,Salesperson,1105,34,32392,0.05,2024-01-06 01:58:07
+1108,Cameron,Hobbs,Sales,Salesperson,1105,34,34930,0.05,2020-08-17 02:14:35
+1109,Joseph,Reid,Sales,Salesperson,1105,34,28110,0.05,2019-08-10 21:34:22
+1110,Jennifer,Ibarra,Sales,Salesperson,1105,34,34302,0.05,2020-05-13 13:47:46
+1111,Adam,Valentine,Sales,Salesperson,1105,34,29824,0.05,2020-07-13 01:21:36
+1112,Jennifer,Patterson,Sales,Salesperson,1105,34,28997,0.05,2020-03-19 09:07:52
+1113,Darren,Shelton,Sales,Salesperson,1105,34,21653,0.05,2020-05-01 15:11:24
+1114,Angela,Velez,Sales,Salesperson,1105,34,34306,0.05,2022-04-09 11:55:02
+1115,Shannon,Sanchez,Sales,Salesperson,1105,34,28477,0.05,2019-09-08 19:01:24
+1116,Stephanie,Cooley,Sales,Salesperson,1105,34,33585,0.05,2019-08-25 04:13:41
+1117,Kevin,Lee,Sales,Salesperson,1105,34,33697,0.05,2023-09-24 23:30:36
+1118,Jessica,Evans,Support,Senior Support Agent,1104,34,24251,0.0,2022-08-22 11:10:53
+1119,Dawn,Patterson,Support,Support Agent,1118,34,21296,0.0,2022-06-08 01:28:13
+1120,Sean,Schroeder,Support,Support Agent,1118,34,17888,0.0,2019-06-03 09:44:28
+1121,Kim,Stafford,Support,Support Agent,1118,34,24299,0.0,2021-05-01 20:40:51
+1122,Paul,Smith,Support,Support Agent,1118,34,22521,0.0,2020-07-18 00:32:13
+1123,Vanessa,Sanchez,Support,Support Agent,1118,34,24735,0.0,2022-07-27 10:44:39
+1124,Kenneth,Garrison,Support,Support Agent,1118,34,17300,0.0,2019-12-24 06:50:55
+1125,Katherine,Jenkins,Support,Support Agent,1118,34,22671,0.0,2023-02-07 12:44:17
+1126,Amy,Hernandez,Support,Support Agent,1118,34,17047,0.0,2020-05-03 08:13:44
+1127,Colleen,Flynn,Logistics,Chief of Logistics,1104,34,31248,0.0,2023-01-09 09:23:54
+1128,Dawn,Wu,Logistics,Warehouse Worker,1127,34,17698,0.0,2019-07-11 16:12:09
+1129,Jason,Collins,Logistics,Courier,1127,34,22290,0.0,2023-05-17 10:52:47
+1130,Carrie,Duke,Logistics,Warehouse Worker,1127,34,15007,0.0,2022-04-30 00:37:48
+1131,Nancy,Ramirez,Logistics,Courier,1127,34,17060,0.0,2024-11-01 15:31:25
+1132,Victoria,Stein,Logistics,Warehouse Worker,1127,34,24691,0.0,2024-11-15 16:24:57
+1133,Adam,Valenzuela,Logistics,Courier,1127,34,24592,0.0,2024-09-21 04:29:11
+1134,Audrey,Rodriguez,Logistics,Courier,1127,34,22161,0.0,2022-11-12 06:41:44
+1135,David,Ewing,Logistics,Courier,1127,34,21412,0.0,2020-01-20 19:11:20
+1136,Laura,Abbott,Logistics,Courier,1127,34,28525,0.0,2020-03-25 04:21:40
+1137,Samantha,Johnson,Logistics,Courier,1127,34,22984,0.0,2023-03-23 09:53:09
+1138,Cristina,Roberts,Logistics,Warehouse Worker,1127,34,20674,0.0,2022-09-12 04:05:48
+1139,Melissa,Young,Management,Director,0,35,89168,0.0,2022-04-25 21:52:10
+1140,Cassandra,Taylor,Management,Manager,1139,35,52764,0.0,2022-05-14 14:04:17
+1141,Bobby,Hernandez,Sales,Senior Salesperson,1140,35,32738,0.07,2021-03-01 22:52:48
+1142,Tracie,Juarez,Sales,Salesperson,1141,35,26218,0.05,2021-11-10 05:06:28
+1143,Matthew,Grant,Sales,Salesperson,1141,35,32999,0.05,2024-10-15 09:20:26
+1144,Mariah,Flowers,Sales,Salesperson,1141,35,23940,0.05,2019-01-10 13:30:04
+1145,Kurt,Jackson,Sales,Salesperson,1141,35,28406,0.05,2021-06-11 22:00:55
+1146,Karen,Scott,Sales,Salesperson,1141,35,20501,0.05,2021-05-05 15:08:14
+1147,Mark,Gomez,Sales,Salesperson,1141,35,28436,0.05,2022-05-10 20:05:47
+1148,Mark,Robles,Sales,Salesperson,1141,35,30497,0.05,2024-02-27 02:46:24
+1149,Mary,Gonzalez,Sales,Salesperson,1141,35,26006,0.05,2023-12-27 08:31:05
+1150,Kathryn,Moran,Sales,Salesperson,1141,35,26832,0.05,2020-05-04 04:03:27
+1151,Travis,Rivers,Sales,Salesperson,1141,35,33319,0.05,2020-10-12 22:07:47
+1152,Jennifer,Alexander,Sales,Salesperson,1141,35,23388,0.05,2023-07-10 10:08:59
+1153,Julian,Romero,Sales,Salesperson,1141,35,27458,0.05,2023-11-25 16:33:06
+1154,Albert,Davis,Sales,Salesperson,1141,35,34020,0.05,2019-02-07 22:58:27
+1155,Madison,Bowen,Support,Senior Support Agent,1140,35,25543,0.0,2023-10-26 13:40:16
+1156,Donald,Flores,Support,Support Agent,1155,35,20790,0.0,2020-06-29 11:47:21
+1157,Maurice,Lewis,Support,Support Agent,1155,35,16617,0.0,2024-11-15 13:30:59
+1158,Melissa,Garcia,Support,Support Agent,1155,35,16640,0.0,2024-03-05 00:48:52
+1159,Mark,Cardenas,Support,Support Agent,1155,35,15328,0.0,2024-03-31 04:58:01
+1160,Joshua,Taylor,Support,Support Agent,1155,35,16081,0.0,2019-01-03 20:31:59
+1161,Joseph,Long,Support,Support Agent,1155,35,15350,0.0,2023-03-20 21:54:48
+1162,Christopher,Woodward,Support,Support Agent,1155,35,20291,0.0,2019-03-10 22:19:56
+1163,Paige,Harris,Support,Support Agent,1155,35,19867,0.0,2022-10-10 06:48:39
+1164,Steven,Mcgee,Support,Support Agent,1155,35,21280,0.0,2023-02-08 14:09:44
+1165,Jessica,Fletcher,Support,Support Agent,1155,35,20063,0.0,2022-07-08 19:05:28
+1166,Jennifer,Burns,Support,Support Agent,1155,35,21165,0.0,2019-05-10 17:41:02
+1167,Kimberly,Smith,Support,Support Agent,1155,35,17278,0.0,2024-07-31 05:53:09
+1168,Curtis,Wilcox,Support,Support Agent,1155,35,24683,0.0,2021-10-03 18:02:02
+1169,David,Chambers,Support,Support Agent,1155,35,24684,0.0,2022-11-10 09:42:26
+1170,Stephen,Arnold,Support,Support Agent,1155,35,16304,0.0,2024-05-24 12:32:06
+1171,Carolyn,Stark,Logistics,Chief of Logistics,1140,35,39798,0.0,2019-06-05 04:03:43
+1172,Stephanie,Smith,Logistics,Courier,1171,35,26691,0.0,2019-07-23 17:17:33
+1173,Laura,Hall,Logistics,Courier,1171,35,19216,0.0,2022-05-16 09:54:47
+1174,Luis,Singh,Logistics,Warehouse Worker,1171,35,17333,0.0,2021-09-15 06:44:51
+1175,Eric,Sanchez,Logistics,Courier,1171,35,19932,0.0,2020-04-26 05:35:40
+1176,Joel,Barnes,Logistics,Courier,1171,35,23357,0.0,2021-10-28 07:55:07
+1177,Jonathan,Hernandez,Logistics,Warehouse Worker,1171,35,15673,0.0,2020-01-13 02:55:24
+1178,David,Clark,Logistics,Warehouse Worker,1171,35,12053,0.0,2022-04-12 04:21:12
+1179,Charles,Tate,Logistics,Warehouse Worker,1171,35,20380,0.0,2019-05-17 04:04:53
+1180,Carly,Rivera,Logistics,Courier,1171,35,19110,0.0,2023-07-23 02:48:22
+1181,Joseph,Foster,Logistics,Warehouse Worker,1171,35,17608,0.0,2019-06-11 02:46:31
+1182,Cindy,Duncan,Management,Director,0,36,72134,0.0,2023-09-22 13:45:23
+1183,Kelsey,Brown,Management,Manager,1182,36,58369,0.0,2022-04-10 13:43:34
+1184,Ryan,Caldwell,Sales,Senior Salesperson,1183,36,35002,0.07,2022-06-21 06:43:14
+1185,Sara,Jones,Sales,Salesperson,1184,36,26775,0.05,2022-06-14 08:45:27
+1186,Taylor,Miller,Sales,Salesperson,1184,36,28072,0.05,2024-12-30 10:01:41
+1187,Eric,Walker,Sales,Salesperson,1184,36,32268,0.05,2023-05-26 14:49:01
+1188,Timothy,Sanchez,Sales,Salesperson,1184,36,34633,0.05,2019-09-28 02:59:11
+1189,Marcus,Wilson,Sales,Salesperson,1184,36,28678,0.05,2022-01-27 07:34:27
+1190,Katherine,Rodgers,Sales,Salesperson,1184,36,25221,0.05,2021-05-07 15:43:33
+1191,Nicholas,Huynh,Support,Senior Support Agent,1183,36,28800,0.0,2019-03-21 14:08:34
+1192,Robert,Johnson,Support,Support Agent,1191,36,24485,0.0,2020-09-23 00:02:57
+1193,Ronald,Williams,Support,Support Agent,1191,36,24361,0.0,2022-01-23 09:42:04
+1194,Joshua,Smith,Support,Support Agent,1191,36,23776,0.0,2019-03-27 00:26:12
+1195,Geoffrey,Ellis,Support,Support Agent,1191,36,20438,0.0,2022-09-04 07:47:55
+1196,Brandon,Smith,Support,Support Agent,1191,36,19038,0.0,2024-04-02 21:51:40
+1197,James,Harvey,Support,Support Agent,1191,36,20531,0.0,2019-09-14 09:08:13
+1198,Joshua,Turner,Support,Support Agent,1191,36,22940,0.0,2019-11-01 13:42:45
+1199,Phillip,Henson,Support,Support Agent,1191,36,24375,0.0,2021-07-26 04:23:51
+1200,Samuel,Gonzalez,Support,Support Agent,1191,36,17133,0.0,2019-02-07 02:09:33
+1201,Amy,Ramos,Support,Support Agent,1191,36,17632,0.0,2024-05-26 22:40:30
+1202,Melissa,Powell,Support,Support Agent,1191,36,21465,0.0,2022-03-27 05:18:55
+1203,Donna,King,Logistics,Chief of Logistics,1183,36,36187,0.0,2024-10-09 03:07:11
+1204,James,Werner,Logistics,Warehouse Worker,1203,36,22293,0.0,2020-11-26 16:04:25
+1205,Thomas,Juarez,Logistics,Courier,1203,36,15193,0.0,2019-10-25 23:02:51
+1206,William,Hudson,Logistics,Courier,1203,36,18140,0.0,2020-11-09 02:53:47
+1207,Cameron,Harris,Logistics,Courier,1203,36,23099,0.0,2023-08-28 07:48:09
+1208,Christopher,Martin,Logistics,Courier,1203,36,16139,0.0,2020-07-12 23:19:36
+1209,Anthony,Wolfe,Management,Director,0,37,85449,0.0,2023-09-10 14:59:57
+1210,Jennifer,Neal,Management,Manager,1209,37,51079,0.0,2021-05-19 19:00:58
+1211,Sue,Walter,Sales,Senior Salesperson,1210,37,34751,0.07,2020-04-25 11:09:02
+1212,Dean,Hood,Sales,Salesperson,1211,37,20601,0.05,2020-07-31 18:51:02
+1213,Christopher,Shaw,Sales,Salesperson,1211,37,29740,0.05,2023-09-13 05:09:03
+1214,Christine,Rowe,Sales,Salesperson,1211,37,24217,0.05,2020-02-05 13:29:33
+1215,Michael,Spence,Sales,Salesperson,1211,37,23280,0.05,2020-11-23 00:35:04
+1216,Pamela,Torres,Sales,Salesperson,1211,37,22021,0.05,2020-09-13 00:00:21
+1217,Chad,Johnson,Sales,Salesperson,1211,37,22220,0.05,2023-12-17 01:44:53
+1218,Heather,Carey,Sales,Salesperson,1211,37,33740,0.05,2024-09-15 15:43:02
+1219,Michael,Moore,Sales,Salesperson,1211,37,23801,0.05,2023-02-03 16:06:24
+1220,April,Ross,Sales,Salesperson,1211,37,23970,0.05,2020-06-21 19:01:43
+1221,Robert,Perez,Sales,Salesperson,1211,37,21590,0.05,2019-04-29 11:49:34
+1222,Angela,Dawson,Sales,Salesperson,1211,37,21832,0.05,2021-07-31 05:04:51
+1223,Regina,Martinez,Sales,Salesperson,1211,37,24518,0.05,2019-05-11 17:16:00
+1224,Sarah,Skinner,Sales,Salesperson,1211,37,30867,0.05,2021-07-31 03:47:34
+1225,Tara,Stanley,Support,Senior Support Agent,1210,37,21584,0.0,2020-06-22 00:28:20
+1226,Jose,Miller,Support,Support Agent,1225,37,21404,0.0,2023-03-26 18:04:17
+1227,Jasmine,Hill,Support,Support Agent,1225,37,23178,0.0,2021-08-24 13:21:44
+1228,Yvonne,Knight,Support,Support Agent,1225,37,23555,0.0,2022-12-16 04:20:51
+1229,Benjamin,Ford,Support,Support Agent,1225,37,15691,0.0,2024-10-09 16:44:25
+1230,Amy,Watts,Support,Support Agent,1225,37,16188,0.0,2021-03-17 19:06:14
+1231,Kimberly,Hunt,Support,Support Agent,1225,37,23055,0.0,2022-05-01 08:27:15
+1232,Jeffrey,Pham,Support,Support Agent,1225,37,15144,0.0,2019-10-14 17:44:58
+1233,Johnny,Smith,Support,Support Agent,1225,37,23658,0.0,2022-01-01 15:12:25
+1234,Anthony,Ingram,Logistics,Chief of Logistics,1210,37,32354,0.0,2022-06-24 04:23:37
+1235,Chad,Webster,Logistics,Courier,1234,37,22404,0.0,2024-12-30 10:05:04
+1236,Chelsey,Gonzalez,Logistics,Warehouse Worker,1234,37,16498,0.0,2024-07-18 10:09:41
+1237,John,Thompson,Logistics,Courier,1234,37,22746,0.0,2020-03-04 02:41:41
+1238,Lisa,Zamora,Logistics,Courier,1234,37,15664,0.0,2020-02-04 02:55:06
+1239,Carrie,Gutierrez,Logistics,Warehouse Worker,1234,37,21883,0.0,2021-01-18 20:15:26
+1240,Jane,Shaw,Logistics,Warehouse Worker,1234,37,16320,0.0,2021-08-10 22:09:39
+1241,Kenneth,Clark,Logistics,Courier,1234,37,18144,0.0,2022-07-22 16:47:00
+1242,Ashley,Carey,Logistics,Warehouse Worker,1234,37,13050,0.0,2022-05-24 16:38:09
+1243,Jon,Harrison,Logistics,Courier,1234,37,26650,0.0,2021-02-13 06:19:16
+1244,Taylor,Stout,Logistics,Courier,1234,37,16703,0.0,2019-01-13 18:18:38
+1245,Scott,Taylor,Logistics,Courier,1234,37,22971,0.0,2023-05-16 08:39:41
+1246,Pamela,Bautista,Logistics,Warehouse Worker,1234,37,13262,0.0,2020-11-18 13:16:34
+1247,Samantha,Morrow,Logistics,Warehouse Worker,1234,37,16986,0.0,2022-11-09 22:01:21
+1248,Sheryl,Chang,Logistics,Warehouse Worker,1234,37,19668,0.0,2021-08-29 10:27:11
+1249,Danielle,Lewis,Logistics,Courier,1234,37,21523,0.0,2024-07-22 00:07:07
+1250,Ann,Mcintosh,Management,Director,0,38,67469,0.0,2021-08-21 01:21:39
+1251,Robert,Gonzalez,Management,Manager,1250,38,58293,0.0,2019-07-11 09:06:35
+1252,Stephanie,Simmons,Sales,Senior Salesperson,1251,38,32637,0.07,2022-11-11 06:01:37
+1253,Tyler,Reeves,Sales,Salesperson,1252,38,33044,0.05,2023-07-26 03:48:29
+1254,Anthony,Kramer,Sales,Salesperson,1252,38,30495,0.05,2023-10-23 02:16:31
+1255,Katherine,Armstrong,Sales,Salesperson,1252,38,20571,0.05,2024-03-01 15:45:30
+1256,Amanda,Jensen,Sales,Salesperson,1252,38,22281,0.05,2022-07-19 03:54:17
+1257,Chad,Rowland,Sales,Salesperson,1252,38,28750,0.05,2022-03-28 14:33:40
+1258,Michelle,Jones,Sales,Salesperson,1252,38,20740,0.05,2023-09-05 08:31:20
+1259,Amanda,Cohen,Sales,Salesperson,1252,38,25660,0.05,2023-10-15 14:10:21
+1260,Justin,Perez,Sales,Salesperson,1252,38,32165,0.05,2021-02-03 19:19:09
+1261,Kathleen,Daniel,Sales,Salesperson,1252,38,34442,0.05,2021-03-03 15:51:13
+1262,Brandon,Mack,Sales,Salesperson,1252,38,21345,0.05,2019-12-07 02:48:29
+1263,Makayla,Wright,Sales,Salesperson,1252,38,21559,0.05,2020-12-04 19:51:52
+1264,Michael,Douglas,Sales,Salesperson,1252,38,23520,0.05,2022-09-11 17:14:37
+1265,Joseph,White,Sales,Salesperson,1252,38,26150,0.05,2019-09-15 18:31:22
+1266,Anna,Mcmillan,Support,Senior Support Agent,1251,38,20080,0.0,2019-06-10 19:54:35
+1267,Raymond,Kim,Support,Support Agent,1266,38,22035,0.0,2020-09-22 00:53:57
+1268,Stephen,Ramos,Support,Support Agent,1266,38,16949,0.0,2024-07-05 15:22:25
+1269,Angela,Ward,Support,Support Agent,1266,38,17986,0.0,2021-02-11 08:08:19
+1270,Alexander,Cook,Support,Support Agent,1266,38,17958,0.0,2021-09-15 02:14:43
+1271,Amanda,Mitchell,Support,Support Agent,1266,38,16337,0.0,2019-10-30 00:09:00
+1272,Tyler,Gonzalez,Support,Support Agent,1266,38,15062,0.0,2020-03-26 17:25:23
+1273,Darrell,Holmes,Support,Support Agent,1266,38,17826,0.0,2020-09-15 06:59:32
+1274,Marissa,Hunt,Support,Support Agent,1266,38,15912,0.0,2023-10-04 03:45:24
+1275,Andres,White,Support,Support Agent,1266,38,17481,0.0,2021-09-26 20:13:47
+1276,Kerry,Austin,Support,Support Agent,1266,38,22702,0.0,2023-10-04 03:05:00
+1277,Brandon,Blanchard,Support,Support Agent,1266,38,20221,0.0,2022-10-08 21:07:26
+1278,Jessica,Diaz,Support,Support Agent,1266,38,16653,0.0,2022-10-08 21:16:41
+1279,Thomas,Barrett,Support,Support Agent,1266,38,17684,0.0,2022-11-13 19:31:02
+1280,Nancy,Robinson,Support,Support Agent,1266,38,18334,0.0,2023-10-07 20:26:57
+1281,Raymond,Graham,Logistics,Chief of Logistics,1251,38,28527,0.0,2019-04-01 13:35:28
+1282,Phillip,Moss,Logistics,Courier,1281,38,20907,0.0,2024-11-20 19:17:41
+1283,James,Barajas,Logistics,Courier,1281,38,15119,0.0,2020-09-23 00:11:53
+1284,Cory,Duke,Logistics,Warehouse Worker,1281,38,15755,0.0,2023-06-21 04:01:14
+1285,Matthew,Morris,Logistics,Courier,1281,38,25137,0.0,2024-08-02 00:10:48
+1286,Tammy,Barnes,Logistics,Courier,1281,38,15394,0.0,2020-02-20 08:11:20
+1287,David,Palmer,Logistics,Warehouse Worker,1281,38,17669,0.0,2023-12-17 02:26:49
+1288,John,Long,Logistics,Courier,1281,38,21770,0.0,2023-01-25 04:27:50
+1289,Rachel,Leonard,Logistics,Warehouse Worker,1281,38,17956,0.0,2022-05-23 09:07:04
+1290,Kyle,Ray,Logistics,Warehouse Worker,1281,38,18732,0.0,2022-02-28 05:27:28
+1291,Benjamin,Weaver,Management,Director,0,39,68785,0.0,2021-01-13 16:46:47
+1292,Jonathan,Hill,Management,Manager,1291,39,48795,0.0,2023-02-13 02:59:15
+1293,Timothy,Dickson,Sales,Senior Salesperson,1292,39,36681,0.07,2022-11-25 18:50:47
+1294,Kenneth,Perez,Sales,Salesperson,1293,39,22560,0.05,2019-07-18 17:05:15
+1295,Chelsey,Moore,Sales,Salesperson,1293,39,24351,0.05,2023-08-12 22:30:19
+1296,Andrew,Hobbs,Sales,Salesperson,1293,39,34068,0.05,2024-08-14 12:20:04
+1297,Debbie,Hicks,Sales,Salesperson,1293,39,21198,0.05,2023-07-26 06:57:14
+1298,Sarah,Scott,Sales,Salesperson,1293,39,29411,0.05,2023-03-22 12:17:05
+1299,Patrick,Taylor,Sales,Salesperson,1293,39,34233,0.05,2019-06-06 13:25:45
+1300,Maxwell,Mason,Sales,Salesperson,1293,39,22703,0.05,2019-12-19 21:53:15
+1301,James,Ellis,Sales,Salesperson,1293,39,26623,0.05,2019-09-29 04:57:23
+1302,Michelle,Dunlap,Sales,Salesperson,1293,39,29045,0.05,2021-10-18 23:54:39
+1303,Ann,Gonzalez,Sales,Salesperson,1293,39,22934,0.05,2024-01-01 18:46:15
+1304,Adam,Miller,Sales,Salesperson,1293,39,30909,0.05,2023-06-26 04:45:50
+1305,Jennifer,Guzman,Support,Senior Support Agent,1292,39,28501,0.0,2019-06-19 09:19:57
+1306,Shawn,Lewis,Support,Support Agent,1305,39,16026,0.0,2020-06-29 18:24:38
+1307,Laura,Allen,Support,Support Agent,1305,39,19811,0.0,2023-11-15 08:46:11
+1308,Monica,Mercer,Support,Support Agent,1305,39,22849,0.0,2024-01-13 20:28:06
+1309,Rebecca,Foster,Support,Support Agent,1305,39,20811,0.0,2021-03-24 07:40:07
+1310,Rita,Ray,Support,Support Agent,1305,39,16532,0.0,2023-02-06 09:35:53
+1311,Peter,Holmes,Support,Support Agent,1305,39,20790,0.0,2023-02-08 07:04:23
+1312,Tracy,Schneider,Support,Support Agent,1305,39,23931,0.0,2020-05-04 22:08:41
+1313,Todd,Ho,Support,Support Agent,1305,39,20658,0.0,2021-10-10 05:51:07
+1314,Justin,Smith,Support,Support Agent,1305,39,24088,0.0,2023-06-24 00:09:55
+1315,Tara,Schneider,Support,Support Agent,1305,39,16479,0.0,2021-12-03 19:27:23
+1316,Peter,Cruz,Support,Support Agent,1305,39,18099,0.0,2020-11-07 13:26:47
+1317,Stephanie,Perez,Logistics,Chief of Logistics,1292,39,25856,0.0,2022-12-07 00:12:14
+1318,Kimberly,Kelly,Logistics,Warehouse Worker,1317,39,21662,0.0,2023-09-06 14:04:27
+1319,David,Palmer,Logistics,Courier,1317,39,21062,0.0,2023-07-26 05:07:02
+1320,Daniel,Reid,Logistics,Courier,1317,39,15270,0.0,2024-12-13 16:51:39
+1321,Matthew,Collins,Logistics,Warehouse Worker,1317,39,14557,0.0,2022-05-22 12:23:54
+1322,Nicole,Clark,Logistics,Courier,1317,39,21782,0.0,2019-05-20 14:18:42
+1323,Tina,Lopez,Logistics,Courier,1317,39,18319,0.0,2020-10-10 11:36:56
+1324,Traci,Smith,Logistics,Warehouse Worker,1317,39,19231,0.0,2021-08-28 07:26:17
+1325,Regina,Burgess,Logistics,Warehouse Worker,1317,39,12563,0.0,2022-02-27 12:21:22
+1326,Angela,Terry,Logistics,Courier,1317,39,26866,0.0,2022-02-12 16:47:33
+1327,Charles,Cohen,Logistics,Warehouse Worker,1317,39,24956,0.0,2020-10-21 23:25:22
+1328,James,Coffey,Logistics,Warehouse Worker,1317,39,13837,0.0,2022-12-07 22:55:19
+1329,Maxwell,Smith,Logistics,Warehouse Worker,1317,39,16618,0.0,2021-06-09 21:58:02
+1330,Kyle,Murphy,Logistics,Warehouse Worker,1317,39,13014,0.0,2024-04-23 18:05:14
